@@ -66,7 +66,9 @@ The above conflicts don’t apply to mcb's BTX CAC Compatibility mod, a separate
 To manually configure compatibility with other modifications, you can use the Data For Manual Compatibility Settings archive – all the new data used in the aforementioned files are indicated separately there, but PLEASE NOTE – it’s NOT intended for installation, only for manually entering values from there into your assembly on BEX basis. ATTEMPTING TO INSTALL THIS ARCHIVE IN THE MODS FOLDER WILL DAMAGE YOUR MODS.
 
 # Installation:
-ATTENTION! At the moment, the only official download source is the GitHub page: https://github.com/Hounfor/The-Big-Deal-Add-On
+ATTENTION! At the moment, the only official download sources are:
+GitHub: https://github.com/Hounfor/The-Big-Deal-Add-On
+Mods-In-Exile: https://discourse.modsinexile.com/t/the-big-deal-add-on-for-battletech-extended-3025-3061/631
 
 If you downloaded The Big Deal add-on from somewhere else, it’s NOT guaranteed to work normal, nor is it safe to use the contents of the archive.
 
