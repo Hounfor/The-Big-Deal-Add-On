@@ -67,7 +67,9 @@ To manually configure compatibility with other modifications, you can use the Da
 
 # Installation:
 ATTENTION! At the moment, the only official download sources are:
+
 GitHub: https://github.com/Hounfor/The-Big-Deal-Add-On
+
 Mods-In-Exile: https://discourse.modsinexile.com/t/the-big-deal-add-on-for-battletech-extended-3025-3061/631
 
 If you downloaded The Big Deal add-on from somewhere else, it’s NOT guaranteed to work normal, nor is it safe to use the contents of the archive.
