@@ -119,7 +119,7 @@ Version 1.1:
 
 – Added Ymir BWP-2B, BWP-2E and BWP-3A, as well as Hector HOR-1B and HOR-1C (again, thanks to lordr for the text edits).
 
-– An option to save the game after the second mission has been added for MMPNR due to the increased chance of game crashes on urban maps.
+– An option to save the game after the second mission has been added for MMRNR due to the increased chance of game crashes on urban maps.
 
 – The cover of The Mackies album has been added to the archive as a bonus.
 
