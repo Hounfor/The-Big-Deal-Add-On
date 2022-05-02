@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete), the campaign will be considered failed.
 
-Current version is 1.0.0, added 04/14/2022.
+Current version is 1.1.0, added 05/02/2022.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -111,6 +111,17 @@ BEX + CAC + TBD: BEX -> CAC-C -> TBD -> Medical upgrades patch (optional)
 BEX + CAC + Solaris + TBD: BEX -> Solaris 7 -> CAC-C -> TBD -> Solaris patch -> Medical upgrades patch (optional)
 
 ATTENTION! If you are going to install BTX CAC Compatibility on an existing save with The Big Deal mod, you MUST put into storage ALL of your 'Mechs equipped with any Active Probes, ECM systems, Chameleon Light Polarization Shield and/or Null Signature System before installing, otherwise your saves may be damaged. If, after installing BTX CAC Compatibility and the corresponding version of The Big Deal, these BattleMechs still have problems, then delete them using the save editor and add them again – in this case, the problem should be solved. Also, you will probably have to replace all Inferno launchers, AMS, ECM and Active Probes from the storage manually with similar equipment from the CAC Compatibility mod using the same editor. After installing the CAC Compatibility, you will also need to update the TBD, replacing it with the CAC-compatible version: to do this, delete the existing fps_TheBigDealBEXCE folder in your Mods folder and install the CAC-compatible version following the instructions above.
+
+# Changelog:
+Version 1.1:
+
+– Changed loadout and Yang's commentary for the Crusader CRD-1R to better match the BT timeline (thanks lordruthermore).
+
+– Added Ymir BWP-2B, BWP-2E and BWP-3A, as well as Hector HOR-1B and HOR-1C.
+
+– An option to save the game after the second mission has been added for MMPNR due to the increased chance of game crashes on urban maps.
+
+– The cover of The Mackies album has been added to the archive as a bonus.
 
 # FAQ:
 – I installed this mod and it doesn't work!
@@ -214,13 +225,21 @@ BattleAxe BKX-7K, BattleAxe BKX-7NC, Hammerhands HMH-3D and Hammerhands HMH-4D:
 
 Technically, these chassis are extinct, but occasionally they can be found in Davion local troops.
 
-Phoenix PX-3R and Phoenix PX-4R:
+Phoenix PX-3R, Phoenix PX-4R, Ymir BWP-2B and Ymir BWP-2E:
 
 Technically, these chassis are extinct, but occasionally they can be found in Steiner local troops.
+
+Ymir BWP-3A:
+
+The very few remaining 3A "mechs are used by ComStar and Steiner elite troops.
 
 Von Rohrs VON 4RH-5 and Von Rohrs VON 4RH-6:
 
 Technically, these chassis are extinct, but occasionally they can be found in Kuritan local troops.
+
+Hector HOR-1B and Hector HOR-1C:
+
+Technically, these chassis are extinct, but occasionally they can be found in Marik local troops.
 
 Archer ARC-5CS, Marauder MAR-5CS, Phoenix Hawk PXH-1bC, Rifleman RFL-5CS, Shadow Hawk SHD-2Ht and Warhammer WHM-7CS:
 
