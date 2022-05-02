@@ -231,7 +231,7 @@ Technically, these chassis are extinct, but occasionally they can be found in St
 
 Ymir BWP-3A:
 
-The very few remaining 3A "mechs are used by ComStar and Steiner elite troops.
+The very few remaining 3A 'Mechs are used by ComStar and Steiner elite troops.
 
 Von Rohrs VON 4RH-5 and Von Rohrs VON 4RH-6:
 
