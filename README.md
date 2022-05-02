@@ -123,6 +123,8 @@ Version 1.1:
 
 – The cover of The Mackies album has been added to the archive as a bonus.
 
+All download links have been updated. To update your TBD to version 1.1, go to the Mods directory, delete the fps_TheBigDealBEXCE folder there and reinstall according to the usual instructions.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 
