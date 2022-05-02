@@ -108,7 +108,7 @@ BEX + Solaris + TBD: BEX -> Solaris 7 -> TBD -> Solaris patch -> Medical upgrade
 
 BEX + CAC + TBD: BEX -> CAC-C -> TBD -> Medical upgrades patch (optional)
 
-BEX + CAC + Solaris + TBD: BEX -> Solaris 7 -> CAC-C -> TBD -> Solaris patch -> Medical upgrades patch (optional)
+BEX + CAC + Solaris + TBD: BEX -> CAC-C -> Solaris 7 -> TBD -> Solaris patch -> Medical upgrades patch (optional)
 
 ATTENTION! If you are going to install BTX CAC Compatibility on an existing save with The Big Deal mod, you MUST put into storage ALL of your 'Mechs equipped with any Active Probes, ECM systems, Chameleon Light Polarization Shield and/or Null Signature System before installing, otherwise your saves may be damaged. If, after installing BTX CAC Compatibility and the corresponding version of The Big Deal, these BattleMechs still have problems, then delete them using the save editor and add them again – in this case, the problem should be solved. Also, you will probably have to replace all Inferno launchers, AMS, ECM and Active Probes from the storage manually with similar equipment from the CAC Compatibility mod using the same editor. After installing the CAC Compatibility, you will also need to update the TBD, replacing it with the CAC-compatible version: to do this, delete the existing fps_TheBigDealBEXCE folder in your Mods folder and install the CAC-compatible version following the instructions above.
 
