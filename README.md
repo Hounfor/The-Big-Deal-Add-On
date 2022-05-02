@@ -7,7 +7,7 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – 12 new events, 6 of which are random, and it's up to you whether they happen or not.
 
-– 31 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 2 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
+– 36 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 2 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
 
 – Several new Ronin Mechwarriors.
 
