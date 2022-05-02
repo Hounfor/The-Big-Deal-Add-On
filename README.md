@@ -117,7 +117,7 @@ Version 1.1:
 
 – Changed loadout and Yang's commentary for the Crusader CRD-1R to better match the BT timeline (thanks lordruthermore).
 
-– Added Ymir BWP-2B, BWP-2E and BWP-3A, as well as Hector HOR-1B and HOR-1C.
+– Added Ymir BWP-2B, BWP-2E and BWP-3A, as well as Hector HOR-1B and HOR-1C (again, to lordr for the text edits).
 
 – An option to save the game after the second mission has been added for MMPNR due to the increased chance of game crashes on urban maps.
 
