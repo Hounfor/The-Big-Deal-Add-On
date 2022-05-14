@@ -125,6 +125,18 @@ Version 1.1:
 
 All download links have been updated. To update your TBD to version 1.1, go to the Mods directory, delete the fps_TheBigDealBEXCE folder there and reinstall according to the usual instructions.
 
+Version 1.1.1:
+
+- Slightly changed the loadout of The General.
+
+- In the "Good Company" event, the text of one of the answer options was slightly changed (it was too ambiguous).
+
+- The ammo rack capacity for the Rail Gun has been increased from 4 to 5 rounds per ton.
+
+- The Rail Gun version + has become a little cheaper and lighter by 3 tons, the bonus for a smaller size is also preserved.
+
+- Fixed the price of the Rail Gun + + version, it was cheaper than it should be.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 
