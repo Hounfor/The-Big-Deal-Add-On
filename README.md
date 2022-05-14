@@ -147,6 +147,10 @@ The mod has been tested countless times during development and triple checked be
 
 In this case, I advise you to delete everything that is in your Mods folder, and perform a completely clean installation of all the necessary mods according to the instructions for them. This should fix the issue.
 
+– I can't find The Opportunist FP, where is it located?
+
+It's a vanilla FP, but it's been moved. It's currently located in the Awano system, northeast of Terra. If you can't find it, use the search: on the star map screen, press CTRL + F.
+
 – The campaign is too hard, I can't complete it. Can you make it easier?
 
 Campaign difficulty has already been significantly lowered for release. Either you don’t have a powerful enough team, or your tactics are ineffective. In short, get tougher and smarter, if you're trying to kick the whole galaxy's ass with just Wasp, Cicada, Quickdraw and Charger – that's definitely a bad idea.
