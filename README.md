@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete), the campaign will be considered failed.
 
-Current version is 1.1.1, added 05/22/2022.
+Current version is 1.1.1, added 05/23/2022.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -141,6 +141,10 @@ Version 1.1.1:
 Version 1.1.2:
 
 – Improved built-in rangefinder suite for RF2-A.
+
+Version 1.1.3
+
+– Technical update, nothing new, but extra and missing commas have been fixed in the mechs files where necessary (thanks Polyonymous).
 
 # FAQ:
 – I installed this mod and it doesn't work!
