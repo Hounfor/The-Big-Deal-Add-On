@@ -140,7 +140,7 @@ Version 1.1.1:
 
 Version 1.1.2:
 
-– Improved built-in rangefinder suite for RF2-A
+– Improved built-in rangefinder suite for RF2-A.
 
 # FAQ:
 – I installed this mod and it doesn't work!
