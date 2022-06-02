@@ -168,7 +168,7 @@ In this case, I advise you to delete everything that is in your Mods folder, and
 
 – My game crashes while launching a mission, what's the problem?
 
-If an error is indicated in the BT log, the code of which contains the blocks NullReferenceException: Object reference not set to an instance of an object and (UnityEngine.Transform parentTransform), then your CAB files are damaged. So far, only one such case has been reported, the problem is solved through the CAB installer in two ways:
+If an error is indicated in the BT log, the code of which contains the blocks **NullReferenceException: Object reference not set to an instance of an object** and **(UnityEngine.Transform parentTransform)**, then your CAB files are damaged. So far, only one such case has been reported, the problem is solved through the CAB installer in two ways:
 1) Run it, click "Advanced Mode", check the box "Correct Corrupted Files", start the installation. Damaged files should be fixed automatically.
 2) Complete reinstallation of all CAB directories after deleting the existing ones.
 
