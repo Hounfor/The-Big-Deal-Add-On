@@ -154,7 +154,7 @@ Version 1.1.3
 3) 
 – Fixed minor issue with Cataphract’s affinity showing as Caesar. Now it’s the other way around, but it makes more sense, given that Caesar is the Cataphract reworked by the FedSuns.
 
-– The built-in rangefinder suite for RF2-A has been changed once again: the range optimization bonus has been replaced with +10% ballistic weapon damage.
+– The built-in rangefinder suite for RF2-A has been changed once again: the range optimization bonus has been replaced with +10% damage for ballistic weapons.
 
 # FAQ:
 – I installed this mod and it doesn't work!
