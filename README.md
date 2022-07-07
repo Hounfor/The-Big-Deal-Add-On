@@ -42,7 +42,7 @@ Current version is 1.1.5, added 07/07/2022.
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
 
-– Installed modification BattleTech Extended 3025-3061 version 1.9.3.7 with BiggerDrops patch.
+– Installed modification BattleTech Extended 3025-3061 version 1.9.3.7.
 
 # Compatibility with other mods:
 The Big Deal add-on will definitely conflict with any mods installed with BEX if they do any of the following:
