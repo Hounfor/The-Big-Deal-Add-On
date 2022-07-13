@@ -166,6 +166,8 @@ Version 1.2:
 
 – Added Corsairs models 5R, 5T, 6R and 7A (thanks to Pode for editing the texts).
 
+– The loadout of The General was changed a bit.
+
 – For the correct operation of all Corsairs, the pirates Xotl table has been significantly changed. It retains the same values, but the table now uses three columns for different dates of appearance, so if you made edits there, you will have to completely redo them.
 
 – In the version for CAC-C, the mod.json of the CAC-C itself has been updated to the latest version.
