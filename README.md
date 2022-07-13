@@ -156,12 +156,14 @@ Version 1.1.4
 
 – The built-in rangefinder suite for RF2-A has been changed once again: the range optimization bonus has been replaced with +10% damage for ballistic weapons.
 
-Version 1.1.5
+Version 1.1.5:
+
 – There is no new content, but a few minor technical fixes have been made to the events. Also fixed a few typos in Yang’s comments on two Ymirs and one Hector.
 
 Also it’s no longer necessary to install the BiggerDrops patch for the BEX (thanks to HamsterOfWrath for testing), but not 100% sure yet.
 
-Version 1.2
+Version 1.2:
+
 – Added Corsairs models 5R, 5T, 6R and 7A (thanks to Pode for editing the texts).
 
 – For the correct operation of all Corsairs, the pirates Xotl table has been significantly changed. It retains the same values, but the table now uses three columns for different dates of appearance, so if you made edits there, you will have to completely redo them.
