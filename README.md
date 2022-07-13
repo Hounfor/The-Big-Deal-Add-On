@@ -161,6 +161,13 @@ Version 1.1.5
 
 Also it’s no longer necessary to install the BiggerDrops patch for the BEX (thanks to HamsterOfWrath for testing), but not 100% sure yet.
 
+Version 1.2
+– Added Corsairs models 5R, 5T, 6R and 7A (thanks to Pode for editing the texts).
+
+– For the correct operation of all Corsairs, the pirates Xotl table has been significantly changed. It retains the same values, but the table now uses three columns for different dates of appearance, so if you made edits there, you will have to completely redo them.
+
+– In the version for CAC-C, the mod.json of the CAC-C itself has been updated to the latest version.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 
@@ -296,6 +303,12 @@ These all are ComStar refits used in the Battle of Tukayyid. They can be stumble
 Annihilator ANH-1X:
 
 Skirmish only.
+
+Corsair COR-5R, COR-5T, COR-6R and COR-7A:
+
+According to Sarna, these 'Mechs first appeared in 3035. However, these are hand-built pirate 'Mechs, so it is possible that some machines could have appeared earlier.
+5R, 5T and 6R have been used by pirates since 3025, becoming somewhat more common from 3035.
+And you can stumble upon 7A in battles against pirates since 3050.
 
 Both new unique chassis are only obtainable once, and you'll have to find them yourself to avoid spoilers. Whether you get them or not depends on your actions.
 
