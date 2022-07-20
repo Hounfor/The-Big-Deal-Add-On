@@ -1,5 +1,5 @@
 # The Big Deal Add-On
-The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign consisting of a chain of flashpoints similar to the original Heavy Metal DLC. The campaign is meant to be late game content and will require powerful 'Mechs, ace MechWarriors, rare and scarce gear and tactical flair from you: this is NOT vanilla flashpoints, it's significantly more difficult, but you can be sure – if you can handle it, then your suffering will pay off in full. Here's what awaits you:
+The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign consisting of a chain of flashpoints similar to the original Heavy Metal DLC. The campaign is meant to be late game content and will require powerful 'Mechs, ace MechWarriors, rare and scarce gear and tactical flair from you: this is NOT vanilla flashpoints, it's significantly more difficult, but you can be sure – if you can handle it, then your suffering will pay off in full. To reiterate, I strongly recommend not to rush into the campaign, but to carefully prepare, and this means that you will definitely need the most trained pilots, DHS, various fancy mechs from ComStar hunting, advanced basic and Lostech weapons. It would be more reasonable to call the campaign pre-Clan content – this should give you an idea of the level of preparation of your unit for a full playthrough. Here's what awaits you:
 
 – Sequential campaign with a full story of 6 episodes: the very first one is taken from the vanilla Flashpoint DLC, the other 5 are completely new. Your enemies are for the most part well armed and prepared, so don't relax.
 
@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.2, added 07/13/2022.
+Current version is 1.2.1, added 07/19/2022.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -171,6 +171,22 @@ Version 1.2:
 – For the correct operation of all Corsairs, the pirates Xotl table has been significantly changed. It retains the same values, but the table now uses three columns for different dates of appearance, so if you made edits there, you will have to completely redo them.
 
 – In the version for CAC-C, the mod.json of the CAC-C itself has been updated to the latest version.
+
+Version 1.2.1
+
+– The composition of reinforcement lances in the final mission of branch A of the WW episode has been changed, a typo in the mission description has also been fixed.
+
+– Several tanks in the final mission of branch A of the BS episode were replaced with lighter ones, the settings of one of the 'Mechs were also changed. In general - a slight simplification of the battle.
+
+– Big Iron is now based on the MSK-9H chassis instead of the MSK-7A, and is also equipped with the Guardian ECM. Replaced with a new version in all missions where it occurs.
+
+– Slightly changed the third conversation between missions in the BS episode.
+
+– Added Guardian ECM description for conversations.
+
+– In the third mission of the RTTJ episode, the settings of one of the reinforcement lances were slightly changed.
+
+– Changed the description of the mod to better represent what players will need to complete the campaign.
 
 # FAQ:
 – I installed this mod and it doesn't work!
