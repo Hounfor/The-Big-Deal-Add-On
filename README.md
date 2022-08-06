@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.2.1, added 08/06/2022.
+Current version is 1.2.2, added 08/06/2022.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
