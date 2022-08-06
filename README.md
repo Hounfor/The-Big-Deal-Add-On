@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.2.1, added 07/19/2022.
+Current version is 1.2.1, added 08/06/2022.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -187,6 +187,16 @@ Version 1.2.1
 – In the third mission of the RTTJ episode, the settings of one of the reinforcement lances were slightly changed.
 
 – Changed the description of the mod to better represent what players will need to complete the campaign.
+
+Version 1.2.2
+
+– Added a technical tag TBD_ronin for all new ronins as requested by Mister Grim. Unfortunately, the tag will only appear automatically for pilots if you haven’t hired them yet.
+
+– Fixed a typo in one of the objectives of the first mission of the MMRNR episode.
+
+– Added emblem Clan Storm Kitty in two versions. It’s just a joke, but it looks good. Thanks lordruthermore for the idea.
+
+– In the final conversation of the RTTJ episode, one phrase was replaced. It looked illogical due to a translation error.
 
 # FAQ:
 – I installed this mod and it doesn't work!
