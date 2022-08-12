@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.2.2, added 08/06/2022.
+Current version is 1.2.3, added 13/06/2022.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -197,6 +197,16 @@ Version 1.2.2
 – Added emblem Clan Storm Kitty in two versions. It’s just a joke, but it looks good. Thanks lordruthermore for the idea.
 
 – In the final conversation of the RTTJ episode, one phrase was replaced. It looked illogical due to a translation error.
+
+Version 1.2.3
+
+– Fixed a couple of typos in the 3A mission of the WW episode.
+
+– Fixed a typo in the general description of all Mackie 'Mechs for conversations.
+
+– Fixed too low stability damage for the Rail Gun from 40 to 85. However, with all the huge firepower and range, it's still an extremely rare and heavy weapon, ineffective at short range.
+
+– The RFL-2N model Rifleman (50-ton chassis) now has its own separate Rangefinder suite: since this 'Mech can't use ballistic weapons, the 50 m view range bonus has been retained, but the -2 bonus to recoil penalty has been changed to +2 to accuracy of energy weapons.
 
 # FAQ:
 – I installed this mod and it doesn't work!
