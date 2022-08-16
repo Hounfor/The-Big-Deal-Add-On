@@ -367,8 +367,7 @@ And you can stumble upon 7A in battles against pirates since 3050.
 Koschei:
 
 1) Models 3I and 3L are used by the CCAF, as well as by the capellan forces of the local militia.
- 
-3)Models 4I and 4L are used by ComStar. You can also stumble upon them while fighting the elite units of the Capellan Confederation, but this is extremely unlikely.
+2) Models 4I and 4L are used by ComStar. You can also stumble upon them while fighting the elite units of the Capellan Confederation, but this is extremely unlikely.
 
 Both new unique chassis are only obtainable once, and you'll have to find them yourself to avoid spoilers. Whether you get them or not depends on your actions.
 
