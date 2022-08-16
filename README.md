@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.3, added 08/16/2022.
+Current version is 1.3.1, added 08/17/2022.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -219,6 +219,10 @@ Version 1.3
 – Added Koschei, namely – models 3I, 3L, 4I and 4L. Thanks Pode for editing the texts.
 
 – Updated data for manual entry (remember, it’s only used to set compatibility with other mods manually).
+
+Version 1.3.1
+
+– Fixed a critical error in mechdefs for all Koschei 'Mechs (thanks to Taliesin for finding the problem).
 
 # FAQ:
 – I installed this mod and it doesn't work!
