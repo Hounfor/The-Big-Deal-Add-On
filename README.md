@@ -7,7 +7,7 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – 12 new events, 6 of which are random, and it's up to you whether they happen or not.
 
-– 40 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 2 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
+– 44 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 2 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
 
 – Several new Ronin Mechwarriors.
 
@@ -19,7 +19,7 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – Guardian ECM and Beagle Active Probe are now available not only as fixed equipment: you can find them in stores and FP reward crates (including vanilla FPs), however, these are rare equipment and hard to find; the above also applies to AMS + +. Incidentally, NARC + + and TAG + + have also been added to stores.
 
-– 7 new emblems for your mercenary unit.
+– 9 new emblems for your mercenary unit.
 
 – The Hell Of A Deal event has been fixed, so you no longer get some stupid LRM launcher for a million – only ‘Mech parts. However, it can still be either LosTech 'Mechs or quite ordinary models, so it all depends on luck.
 
@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.2.3, added 13/06/2022.
+Current version is 1.3, added 08/16/2022.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -208,6 +208,20 @@ Version 1.2.3
 
 – The RFL-2N model Rifleman (50-ton chassis) now has its own separate Rangefinder suite: since this 'Mech can't use ballistic weapons, the 50 m view range bonus has been retained, but the -2 bonus to recoil penalty has been changed to +2 to accuracy of energy weapons.
 
+Version 1.3
+
+– Fixed several text errors in the final episode.
+
+– In the description of bonuses from built-in equipment for RF2-A and RFL-2N, the bonus to accuracy is now correctly displayed.
+
+– Removed Rail Gun from random reward lists for original flashpoints. This means that you can still get it through the campaign or find it in stores, but it will no longer appear as a random item in vanilla, GDL, The Raid or Tukayyid FP crates.
+
+– Both Von Rohrs 'Mechs and the WHM-6Rk Warhammer have received a Large Engine quirk, i.e. they now have a +1 bonus to initiative.
+
+– Added Koschei, namely – models 3I, 3L, 4I and 4L. Thanks Pode for editing the texts.
+
+– Updated data for manual entry (remember, it’s only used to set compatibility with other mods manually).
+
 # FAQ:
 – I installed this mod and it doesn't work!
 
@@ -350,6 +364,11 @@ According to Sarna, these 'Mechs first appeared in 3035. However, these are hand
 5R, 5T and 6R have been used by pirates since 3025, becoming somewhat more common from 3035.
 And you can stumble upon 7A in battles against pirates since 3050.
 
+Koschei:
+
+1) Models 3I and 3L are used by the CCAF, as well as by the capellan forces of the local militia.
+2)Models 4I and 4L are used by ComStar. You can also stumble upon them while fighting the elite units of the Capellan Confederation, but this is extremely unlikely.
+
 Both new unique chassis are only obtainable once, and you'll have to find them yourself to avoid spoilers. Whether you get them or not depends on your actions.
 
 – I’m looking for new Ronins\Argo medical upgrades\chassis upgrades, where can I find them?
@@ -362,7 +381,7 @@ Not by in-game methods, so if you lose them, you can't replace them. Unless you'
 
 – I can’t find the Rail Gun, where can I find it?
 
-These weapons can be found in Former SLDF planets stores or in flashpoint reward crates (including vanilla ones). The weapon is rare and expensive, it’s very difficult to find it. You'll have a couple more opportunities to get it and you won't miss them, but think carefully before you take them – maybe Rail Gun right here and now isn't worth it, and it's worth waiting for another chance?...
+These weapons can be found in Former SLDF planets stores or Black Market. The weapon is rare and expensive, it’s very difficult to find it. You'll have a couple more opportunities to get it and you won't miss them, but think carefully before you take them – maybe Rail Gun right here and now isn't worth it, and it's worth waiting for another chance?...
 
 – How to unlock new emblems for the team?
 
