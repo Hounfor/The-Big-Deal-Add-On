@@ -151,7 +151,7 @@ Version 1.1.4
 – Changes made to the pre-final episode:
 1) Added a save point after mission №2;
 2) The difficulty of the final mission has been changed: 2 enemy mechs have been removed, the placement and lance tags of the rest have been changed. Still hard, but more logical.
-3) 
+ 
 – Fixed minor issue with Cataphract’s affinity showing as Caesar. Now it’s the other way around, but it makes more sense, given that Caesar is the Cataphract reworked by the FedSuns.
 
 – The built-in rangefinder suite for RF2-A has been changed once again: the range optimization bonus has been replaced with +10% damage for ballistic weapons.
@@ -367,7 +367,7 @@ And you can stumble upon 7A in battles against pirates since 3050.
 Koschei:
 
 1) Models 3I and 3L are used by the CCAF, as well as by the capellan forces of the local militia.
-2) 
+ 
 3)Models 4I and 4L are used by ComStar. You can also stumble upon them while fighting the elite units of the Capellan Confederation, but this is extremely unlikely.
 
 Both new unique chassis are only obtainable once, and you'll have to find them yourself to avoid spoilers. Whether you get them or not depends on your actions.
