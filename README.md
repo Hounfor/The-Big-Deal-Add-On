@@ -42,7 +42,7 @@ Current version is 1.3, added 08/16/2022.
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
 
-– Installed modification BattleTech Extended 3025-3061 version 1.9.3.7.
+– Installed modification BattleTech Extended 3025-3061 version 1.9.3.7 with the BiggerDrops patch.
 
 # Compatibility with other mods:
 The Big Deal add-on will definitely conflict with any mods installed with BEX if they do any of the following:
@@ -159,8 +159,6 @@ Version 1.1.4
 Version 1.1.5:
 
 – There is no new content, but a few minor technical fixes have been made to the events. Also fixed a few typos in Yang’s comments on two Ymirs and one Hector.
-
-Also it’s no longer necessary to install the BiggerDrops patch for the BEX (thanks to HamsterOfWrath for testing), but not 100% sure yet.
 
 Version 1.2:
 
@@ -279,6 +277,11 @@ No, because TBD requires some mods from the BattleTech Extended pack. It makes n
 – Can I play The Big Deal without one or more DLCs?
 
 No way: some DLC content cannot be recreated using mods. So you need all three main DLC for BT anyway.
+
+– Can I play without the BiggerDrops patch?
+
+You can, but I HIGHLY don't recommend it: this patch affects the filling of enemy lances at the end of the campaign, so without it you will definitely run into problems, and I have no idea how disastrous they can be.
+On the other hand, you can always install BiggerDrops and disable additional enemy lances in the Mission Control settings if they don't suit you.
 
 – I didn’t figure out how to start a campaign?
 
