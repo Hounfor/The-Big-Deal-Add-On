@@ -59,6 +59,8 @@ The Big Deal add-on will definitely conflict with any mods installed with BEX if
 
 – Change the settings.json file at BATTLETECH\Mods\MechAffinity;
 
+– Change the starsystems jsons at BATTLETECH\Mods\ISM3025\StarSystemDefs. This doesn’t always happen and is not a critical bug, but it can change the tag settings for systems;
+
 – The mod is also incompatible with any mods that change the Mech Bay and the internal construction of the ‘Mechs, i.e. MechEngineer, etc.
 
 The above conflicts don’t apply to mcb's BTX CAC Compatibility mod, a separate version has been created for it: The Big Deal Add-On – BEX + CAC-C archive.
