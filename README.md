@@ -1,5 +1,5 @@
 # The Big Deal Add-On
-The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign consisting of a chain of flashpoints similar to the original Heavy Metal DLC. The campaign is meant to be late game content and will require powerful 'Mechs, ace MechWarriors, rare and scarce gear and tactical flair from you: this is NOT vanilla flashpoints, it's significantly more difficult, but you can be sure – if you can handle it, then your suffering will pay off in full. To reiterate, I strongly recommend not to rush into the campaign, but to carefully prepare, and this means that you will definitely need the most trained pilots, DHS, various fancy mechs from ComStar hunting, advanced basic and Lostech weapons. It would be more reasonable to call the campaign pre-Clan content – this should give you an idea of the level of preparation of your unit for a full playthrough. Here's what awaits you:
+The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign consisting of a chain of flashpoints similar to the original Heavy Metal DLC. The campaign is meant to be late game content and will require powerful 'Mechs, ace MechWarriors, rare and scarce gear and tactical flair from you: this is NOT vanilla flashpoints, it's significantly more difficult, but you can be sure – if you can handle it, then your suffering will pay off in full. To reiterate, I strongly recommend not to rush into the campaign, but to carefully prepare, and this means that you will definitely need the most trained pilots, DHS, various fancy 'Mechs from ComStar hunting, advanced basic and Lostech weapons. It would be more reasonable to call the campaign pre-Clan content – this should give you an idea of the level of preparation of your unit for a full playthrough. Here's what awaits you:
 
 – Sequential campaign with a full story of 6 episodes: the very first one is taken from the vanilla Flashpoint DLC, the other 5 are completely new. Your enemies are for the most part well armed and prepared, so don't relax.
 
@@ -7,7 +7,7 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – 12 new events, 6 of which are random, and it's up to you whether they happen or not.
 
-– 44 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 2 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
+– 45 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 2 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
 
 – Several new Ronin Mechwarriors.
 
@@ -19,7 +19,7 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – Guardian ECM and Beagle Active Probe are now available not only as fixed equipment: you can find them in stores and FP reward crates (including vanilla FPs), however, these are rare equipment and hard to find; the above also applies to AMS + +. Incidentally, NARC + + and TAG + + have also been added to stores.
 
-– 9 new emblems for your mercenary unit.
+– 10 new emblems for your mercenary unit.
 
 – The Hell Of A Deal event has been fixed, so you no longer get some stupid LRM launcher for a million – only ‘Mech parts. However, it can still be either LosTech 'Mechs or quite ordinary models, so it all depends on luck.
 
@@ -110,7 +110,7 @@ BEX + CAC + TBD: BEX -> CAC-C -> TBD -> Medical upgrades patch (optional)
 
 BEX + CAC + Solaris + TBD: BEX -> CAC-C -> Solaris 7 -> TBD -> Solaris patch -> Medical upgrades patch (optional)
 
-ATTENTION! If you are going to install BTX CAC Compatibility on an existing save with The Big Deal mod, you MUST put into storage ALL of your 'Mechs equipped with any Active Probes, ECM systems, Chameleon Light Polarization Shield and/or Null Signature System before installing, otherwise your saves may be damaged. If, after installing BTX CAC Compatibility and the corresponding version of The Big Deal, these BattleMechs still have problems, then delete them using the save editor and add them again – in this case, the problem should be solved. Also, you will probably have to replace all Inferno launchers, AMS, ECM and Active Probes from the storage manually with similar equipment from the CAC Compatibility mod using the same editor. After installing the CAC Compatibility, you will also need to update the TBD, replacing it with the CAC-compatible version: to do this, delete the existing fps_TheBigDealBEXCE folder in your Mods folder and install the CAC-compatible version following the instructions above.
+ATTENTION! If you are going to install BTX CAC Compatibility on an existing save with The Big Deal mod, you MUST put into storage ALL of your 'Mechs equipped with any Active Probes, ECM systems, Chameleon Light Polarization Shield and/or Null Signature System before installing, otherwise your saves may be damaged. If, after installing BTX CAC Compatibility and the corresponding version of The Big Deal, these BattleMechs still have problems, then delete them using the save editor and add them again – in this case, the problem should be solved. Also, you will probably have to replace all Inferno launchers, AMS, ECM and Active Probes from the storage manually with similar equipment from the CAC Compatibility mod using the same editor. After installing the CAC Compatibility, you will also need to update TBD, replacing it with the CAC-compatible version: to do this, delete the existing fps_TheBigDealBEXCE folder in your Mods folder and install the CAC-compatible version following the instructions above.
 
 # Changelog:
 Version 1.1:
@@ -144,13 +144,13 @@ Version 1.1.2:
 
 Version 1.1.3
 
-– Technical update, nothing new, but extra and missing commas have been fixed in the mechs files where necessary (thanks Polyonymous).
+– Technical update, nothing new, but extra and missing commas have been fixed in the 'Mechs files where necessary (thanks Polyonymous).
 
 Version 1.1.4
 
 – Changes made to the pre-final episode:
 1) Added a save point after mission №2;
-2) The difficulty of the final mission has been changed: 2 enemy mechs have been removed, the placement and lance tags of the rest have been changed. Still hard, but more logical.
+2) The difficulty of the final mission has been changed: 2 enemy 'Mechs have been removed, the placement and lance tags of the rest have been changed. Still hard, but more logical.
  
 – Fixed minor issue with Cataphract’s affinity showing as Caesar. Now it’s the other way around, but it makes more sense, given that Caesar is the Cataphract reworked by the FedSuns.
 
@@ -223,6 +223,44 @@ Version 1.3
 Version 1.3.1
 
 – Fixed a critical error in mechdefs for all Koschei 'Mechs (thanks to Taliesin for finding the problem).
+
+Version 1.4
+
+– Added Thug THG-11Eb. The Royal SLDF model differs from the regular one only by using the ER PPCs instead of the regular PPCs, but fits in the timeline. Found in WoB and ComStar units. Thanks to Keviar, Sarini and Haree78 for the text edits.
+
+– Now Koschei and Ymir are available for WoB, but with a very low chance of appearing.
+
+– Minor corrections in the Xotl tables of the House Kurita, some values were missing there.
+
+– Minor changes to the Koschei icon – brightness and contrast.
+
+– Added one new emblem for your mercenary unit, taken from MWO.
+
+– Changed mission 4A in the final episode (TBD), two enemies in it were replaced, and two enemy pilots were also swapped. The mission is still quite difficult if you're just trying to attack head-on, but it's gotten a little easier overall.
+
+– At the multiple requests of the players, a save point was added to the final episode (TBD).
+
+– In the final mission of the episode RTTJ, one of the enemy 'Mechs was returned, but instead of a heavy one, it was replaced with a medium one.
+
+– For СAС-С version, copies of settings in IRBTModUtils and Mission Control were re-copied, since СAС-С was updated.
+
+– Even though TBD was never purposely designed to be compatible with BTX Tanks, I know that some players successfully use this combination. Since BTX Tanks require an outdated version of CAC-C, the ability to download the old version of TBD for these players has been retained, and a patch from Kierk has been added to it, which fixes the mobility of the Annihilators. You can get the old version in the downloads section.
+
+– Updated patch for compatibility with Solaris 7 in CAC-C version.
+
+– Added a fix for The Raid flashpoint, which was originally included in the BEX, now The Muscle will no longer appear in battle in several copies.
+
+– The CAC-C version also added a temporary patch for FP The Raid, since the transition to ModTek 2.0 blocks the ability to launch missions where enemies use modified Atlases. Atlases now use standard models, as soon as mcb finds a way around this, I'll revert this change.
+
+– Adjusted affinities for Shadow Hawk Umbra and Atlas, which was created for kickstarter backers - 'Mechs with these models had no affinities at all. Unfortunately, 'Mechs with these models still use separate affinities, so let's say if your pilots alternately ride any Shadow Hawk and Umbra model, they will have two Shadow Hawks with different counters in their statistics. I definitely can't fix it, and not even sure if it's possible.
+
+– The built-in rangefinder for RF2-A has been changed once again: +3 bonus to accuracy and -2 to recoil penalties have been removed, instead + 50% chance of critical damage has been added. However, the +100 m vision range and +10% damage bonuses are retained, as is the reduction to the long range penalty. Now the 'Mech will be less OP and more balanced, and it's still an excellent sniper.
+
+– Fixed planet_ruins tag, which should initially look like planet_other_ruins. However, since this tag is responsible for triggering events whose contents only make sense in the Periphery, it has only been fixed on Periphery planets and Great House worlds bordering the Periphery. This means that you will not be able to stumble upon these events somewhere deep in the territory of, say, Steiner, but on some of the border planets of Steiner or the adjacent Periphery, this may well happen. Unfortunately, this star system fix only works for a new campaign or career.
+
+– Updated data archive for manual input.
+
+– A few minor edits to the mod description.
 
 # FAQ:
 – I installed this mod and it doesn't work!
