@@ -228,7 +228,7 @@ Version 1.4
 
 – Added Thug THG-11Eb. The Royal SLDF model differs from the regular one only by using the ER PPCs instead of the regular PPCs, but fits in the timeline. Found in WoB and ComStar units. Thanks to Keviar, Sarini and Haree78 for the text edits.
 
-– Now Koschei and Ymir are available for WoB, but with a very low chance of appearing.
+– Now Koschei 4I/4L and Ymir BWP-3A are available for WoB, but with a very low chance of appearing.
 
 – Minor corrections in the Xotl tables of the House Kurita, some values were missing there.
 
@@ -344,7 +344,7 @@ All the best weapons and equipment you can get your hands on, as well as ace pil
 
 Here is the complete list:
 
-PLG-3Z, BLR-1GBc, BLR-1Gc, SPR-4F, CRD-1R, WVE-5Nsl, GLH-1D and KY2-D-02:
+PLG-3Z, BLR-1GBc, BLR-1Gc, SPR-4F, CRD-1R, WVE-5Nsl, KSC-4I, KSC-4L, BWP-3A, GLH-1D and KY2-D-02:
 
 Find ComStar or WoB and kick their asses. Probably they will deploy these ‘Mechs. Some of them are also used by Snord's Irregulars.
 
