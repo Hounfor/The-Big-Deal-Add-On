@@ -228,7 +228,7 @@ Version 1.3.1
 
 Version 1.4
 
-– Added Thug THG-11Eb. The Royal SLDF model differs from the regular one only by using the ER PPCs instead of the regular PPCs, but fits in the timeline. Found in WoB and ComStar units. Thanks to Keviar, Sarini and Haree78 for the text edits.
+– Added Thug THG-11Eb. The Royal SLDF model differs from the regular one only by using the ER PPCs instead of the regular PPCs, but fits in the timeline. Found in WoB and ComStar units. Thanks to Keivar, Sarini and Haree78 for the text edits.
 
 – Now Koschei 4I/4L and Ymir BWP-3A are available for WoB, but with a very low chance of appearing.
 
