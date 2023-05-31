@@ -270,7 +270,7 @@ Version 1.4.1
 
 – Added emblem of the Clan Wolverine, because Bull Shark at the time of receipt carries exactly such emblems.
 
-– Pillager and Spector now have their own icons, models and affinities (thanks to the KAB team for the models, and Kierk for the icons).
+– Pillager and Spector now have their own icons, models and affinities (thanks to the CAB team for the models, and Kierk for the icons).
 
 – In the CAC-C version, RF2-A now uses its own model and icon (thanks to FrostRaptor for fixing the model according to my feedback).
 
@@ -278,7 +278,19 @@ Version 1.4.1
 
 – Updated data archive for manual input.
 
-– As a bonus, another cover of The Mackies albums has been added. It was made back in February, but then it wasn't posted anywhere.
+  As a bonus, another cover of The Mackies albums has been added. It was made back in February, but then it wasn't posted anywhere.
+ 
+ If you have a Spector or Pillager (or RF2-A in CAC-C version), put them into the storage and take them out of there to correctly update the models and icons. If after that the 'Mechs aren't displayed in the MechBay, follow these steps:
+ 
+– Exit to the main menu and in the Mods menu, disable all parts of the CAB, restart the game;
+ 
+– After restarting, you will receive several error messages. Enable the CAB again and exit the game;
+
+– Restart in your mods folder ModTekInjector.exe
+
+– Launch the game, load the save and check if your 'Mechs are displayed in the MechBay.
+
+If this doesn't help, reinstall the CAB completely and run the ModTekInjector.exe again after reinstalling.
 
 # FAQ:
 – I installed this mod and it doesn't work!
