@@ -280,7 +280,7 @@ Version 1.4.1
 
   As a bonus, another cover of The Mackies albums has been added. It was made back in February, but then it wasn't posted anywhere.
  
- If you have a Spector or Pillager (or RF2-A in CAC-C version), put them into the storage and take them out of there to correctly update the models and icons. If after that the 'Mechs aren't displayed in the MechBay, follow these steps:
+ <b>If you have a Spector or Pillager (or RF2-A in CAC-C version), put them into the storage and take them out of there to correctly update the models and icons. If after that the 'Mechs aren't displayed in the MechBay, follow these steps:
  
 – Exit to the main menu and in the Mods menu, disable all parts of the CAB, restart the game;
  
@@ -290,7 +290,7 @@ Version 1.4.1
 
 – Launch the game, load the save and check if your 'Mechs are displayed in the MechBay.
 
-If this doesn't help, reinstall the CAB completely and run the ModTekInjector.exe again after reinstalling.
+If this doesn't help, reinstall the CAB completely and run the ModTekInjector.exe again after reinstalling.</b>
 
 # FAQ:
 – I installed this mod and it doesn't work!
