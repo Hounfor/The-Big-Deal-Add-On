@@ -19,7 +19,7 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – Guardian ECM and Beagle Active Probe are now available not only as fixed equipment: you can find them in stores and FP reward crates (including vanilla FPs), however, these are rare equipment and hard to find; the above also applies to AMS + +. Incidentally, NARC + + and TAG + + have also been added to stores.
 
-– 10 new emblems for your mercenary unit.
+– 11 new emblems for your mercenary unit.
 
 – The Hell Of A Deal event has been fixed, so you no longer get some stupid LRM launcher for a million – only ‘Mech parts. However, it can still be either LosTech 'Mechs or quite ordinary models, so it all depends on luck.
 
@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.4, added 01/23/2023.
+Current version is 1.4, added 05/31/2023.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -263,6 +263,22 @@ Version 1.4
 – Updated data archive for manual input.
 
 – A few minor edits to the mod description.
+
+Version 1.4.1
+
+– In the WW episode, branch B missions were updated, there were some non-critical errors in the code (thanks to GrayWolfe for finding the problem).
+
+– Added emblem of the Clan Wolverine, because Bull Shark at the time of receipt carries exactly such emblems.
+
+– Pillager and Spector now have their own icons, models and affinities (thanks to the KAB team for the models, and Kierk for the icons).
+
+– In the CAC-C version, RF2-A now uses its own model and icon (thanks to FrostRaptor for fixing the model according to my feedback).
+
+– Updated the final mission in both branches for the last flashpoint. It got a little more difficult.
+
+– Updated data archive for manual input.
+
+– As a bonus, another cover of The Mackies albums has been added. It was made back in February, but then it wasn't posted anywhere.
 
 # FAQ:
 – I installed this mod and it doesn't work!
