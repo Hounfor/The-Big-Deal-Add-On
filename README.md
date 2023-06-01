@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.4.2, added 05/31/2023.
+Current version is 1.4.3, added 06/01/2023.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -292,9 +292,15 @@ Version 1.4.1
 
 If this doesn't help, reinstall the CAB completely and run the ModTekInjector.exe again after reinstalling.</b>
 
-Version 1.4.1
+Version 1.4.2
 
 – Fixed a bug due to which the new models of Spector and Pillager were not displayed, as well as their new icons.
+
+Version 1.4.3
+
+– Fixed hand actuators in Sim+ mode for all Ymir chassis.
+
+– Fixed Hammerhands, BattleAxe, and Von Rohrs missing from the Xotl tables, preventing them from being encountered in combat. Special thanks to Kierk for detecting all those bugs.
 
 # FAQ:
 – I installed this mod and it doesn't work!
