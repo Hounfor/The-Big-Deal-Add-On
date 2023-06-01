@@ -300,7 +300,7 @@ Version 1.4.3
 
 – Fixed hand actuators in Sim+ mode for all Ymir chassis.
 
-– Fixed Hammerhands, BattleAxe, and Von Rohrs missing from the Xotl tables, preventing them from being encountered in combat. Special thanks to Kierk for detecting all those bugs.
+– Fixed Hammerhands, BattleAxe and Von Rohrs missing from the Xotl tables, preventing them from being encountered in combat. Special thanks to Kierk for detecting all those bugs.
 
 # FAQ:
 – I installed this mod and it doesn't work!
