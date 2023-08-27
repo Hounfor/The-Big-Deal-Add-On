@@ -19,7 +19,7 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – Guardian ECM and Beagle Active Probe are now available not only as fixed equipment: you can find them in stores and FP reward crates (including vanilla FPs), however, these are rare equipment and hard to find; the above also applies to AMS + +. Incidentally, NARC + + and TAG + + have also been added to stores.
 
-– 11 new emblems for your mercenary unit.
+– 12 new emblems for your mercenary unit.
 
 – The Hell Of A Deal event has been fixed, so you no longer get some stupid LRM launcher for a million – only ‘Mech parts. However, it can still be either LosTech 'Mechs or quite ordinary models, so it all depends on luck.
 
@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.4.3, added 06/01/2023.
+Current version is 1.4.5, added 08/27/2023.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -301,6 +301,44 @@ Version 1.4.3
 – Fixed hand actuators in Sim+ mode for all Ymir chassis.
 
 – Fixed Hammerhands, BattleAxe and Von Rohrs missing from the Xotl tables, preventing them from being encountered in combat. Special thanks to Kierk for detecting all those bugs.
+
+Version 1.4.5
+
+Changes for both versions:
+
+– Added a new emblem. Looks stylish and beautiful, you'll definitely like it.
+
+– Removed changes to the Solaris system to correctly display the color on the star map when using the Solaris 7 mod.
+
+– Added fix for The Steel Beast FP, no more 4 Tubbs in one battle.
+
+– Fixed a typo in Yang's comment for Rifleman 2N.
+
+– Changed the description of the Crusader 1R as this 'Mech isn't equipped with the Artemis FCS.
+
+– The nasty old bug with the Pillager has finally been fixed, now its UI should display correctly in combat, that is, above the 'Mech, not somewhere nearby.
+
+– Ymir, Phoenix, Hector, BattleAxe, HammerHands and Von Rohrs have been added to the Xotl tables of the regular troops of their respective Great Houses. They should be a bit easier to find now, although the overall drop rate has remained unchanged.
+
+– All events intended to launch the FPs of TBD campaign have been re-created. This is supposed to fix a bug that some players get when flashpoints don't spawn even though events work, but I haven't been able to reproduce this bug in tests with either the old or the new events, so there's still some chance.
+
+– Fixed a lot of incorrectly placed commas in the code. It doesn't affect the performance of TBD, but it will not get worse. Thanks to Kierk for spotting this issue.
+
+– Updated data for manual entry.
+
+Changes for САС-С version:
+
+– Since Artemis FCS is now a separate upgrade in CAC-C, all 'Mechs with Artemis-equipped missile launchers now use standard launchers with the separately installed Artemis upgrade.
+
+– All missile launchers with built-in Artemis FCS have been removed from TBD reward lists, but now there are chances to get the upgrade itself instead.
+
+– Missile launchers LRM-15 and LRM-20 class +++ of the manufacturer Delta with Artemis FCS (those with -1 slot and -4 to heat) have been removed from TBD. Instead, similar missile launchers without Artemis FCS have been added.
+
+– Removed fix for The Raid FP, since CAC-C now has a built-in one.
+
+– Updated MechAffinity settings.
+
+**ATTENTION! If you're using CAC-C and have Artemis-equipped LRM-15 and/or LRM-20 from Delta (-1 slot, -4 heat), be sure to dismantle them from your 'Mechs and sell them from the storage before installing TBD 1.4.5, otherwise you will NOT be able to load your saves. If you have already installed the update, but have not done so, use the save editor to remove this weapon.**
 
 # FAQ:
 – I installed this mod and it doesn't work!
