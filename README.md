@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.4.5, added 08/27/2023.
+Current version is 1.4.6, added 08/29/2023.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -339,6 +339,16 @@ Changes for САС-С version:
 – Updated MechAffinity settings.
 
 **ATTENTION! If you're using CAC-C and have Artemis-equipped LRM-15 and/or LRM-20 from Delta (-1 slot, -4 heat), be sure to dismantle them from your 'Mechs and sell them from the storage before installing TBD 1.4.5, otherwise you will NOT be able to load your saves. If you have already installed the update, but have not done so, use the save editor to remove this weapon.**
+
+Version 1.4.6
+
+– Fixed minor bugs in Xotl, previously made in 1.4.5.
+
+– Replaced mod.json for CAC-C version with the current one.
+
+– Fixed Stone Rhino model 5, 6 and 7 actuators for simulation modes.
+
+Thanks to Kierk for pointing out the issues.
 
 # FAQ:
 – I installed this mod and it doesn't work!
