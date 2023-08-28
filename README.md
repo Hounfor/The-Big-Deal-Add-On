@@ -348,6 +348,8 @@ Version 1.4.6
 
 – Fixed Stone Rhino model 5, 6 and 7 actuators for simulation modes.
 
+– Updated data for manual entry.
+
 Thanks to Kierk for pointing out the issues.
 
 # FAQ:
