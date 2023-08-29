@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.4.6, added 08/29/2023.
+Current version is 1.4.6A, added 08/29/2023.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -351,6 +351,18 @@ Version 1.4.6
 – Updated data for manual entry.
 
 Thanks to Kierk for pointing out the issues.
+
+Version 1.4.6
+
+There was a critical error in the previous version, I apologize. Version 1.4.6A is already available, reinstall TBD in the usual way.
+
+ATTENTION! Before installing version 1.4.6A, go to the Mods\FullXotlTables\XotlTables folder and delete two files:
+
+– Mech Weighting Extended - Steiner.csv
+
+– Mech_Weighting_Extended_-_Steiner.csv
+
+If you don’t have the Mech_Weighting_Extended_-_Steiner.csv file, it’s all right, just delete the first one.
 
 # FAQ:
 – I installed this mod and it doesn't work!
