@@ -352,7 +352,7 @@ Version 1.4.6
 
 Thanks to Kierk for pointing out the issues.
 
-Version 1.4.6
+Version 1.4.6A
 
 There was a critical error in the previous version, I apologize. Version 1.4.6A is already available, reinstall TBD in the usual way.
 
@@ -363,6 +363,13 @@ There was a critical error in the previous version, I apologize. Version 1.4.6A 
 – Mech_Weighting_Extended_-_Steiner.csv
 
 If you don’t have the Mech_Weighting_Extended_-_Steiner.csv file, it’s all right, just delete the first one.**
+
+Version 1.4.6B
+
+– CAC-C version has been updated for use with the new release of CAC-C.
+
+– For both versions, a separate RAR file, Emergency files – manual FP start, has been added with files for manually launching flashpoints if something doesn’t work for you, since it's impossible to completely fix this error. There are also instructions there.
+
 
 # FAQ:
 – I installed this mod and it doesn't work!
