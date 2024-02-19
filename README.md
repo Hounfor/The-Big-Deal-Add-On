@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.4.6B, added 09/18/2023.
+Current version is 1.4.7, added 02/20/2024.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -369,6 +369,22 @@ Version 1.4.6B
 – CAC-C version has been updated for use with the new release of CAC-C.
 
 – For both versions, a separate RAR file, Emergency files – manual FP start, has been added with files for manually launching flashpoints if something doesn’t work for you, since it's impossible to completely fix this error. There are also instructions there.
+
+Version 1.4.7
+
+– CAC-C version has been updated for use with the new release of CAC-C.
+
+– In the WW episode, minor text edits were made to missions 2A and 1B, as well as to the starting conversation.
+
+– In the MMRNR episode, mission 3A was changed, now Morgen and I have the same skill stats in the battle as when hired, the stats themselves have also been changed. Both tanks have been removed. Also made minor changes to conversation 4A.
+
+– All FPs main files have been updated, a minor fix related to star systems.
+
+– A bug has been fixed for all Spectors, their interface should now be displayed above them in battle, and not hang around somewhere nearby.
+
+– The CAC-C version also got a fix from the CAC-C itself for one of the star systems, which led to starmap failures during timeline changes.
+
+– Among the parts of LosTech 'Mechs that you can find in stores or FP crates, you may now find PXH-1B parts.
 
 
 # FAQ:
