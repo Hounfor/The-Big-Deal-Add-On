@@ -384,6 +384,8 @@ Version 1.4.7
 
 – The CAC-C version also got a fix from the CAC-C itself for one of the star systems, which led to starmap failures during timeline changes.
 
+– Updated SLRoyal Xotl table since new LAMs were added to CAC-C.
+
 – Among the parts of LosTech 'Mechs that you can find in stores or FP crates, you may now find PXH-1B parts.
 
 
