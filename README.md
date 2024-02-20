@@ -37,7 +37,7 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.4.7b, added 02/20/2024.
+Current version is 1.4.7c, added 02/21/2024.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -388,10 +388,14 @@ Version 1.4.7
 
 – Among the parts of LosTech 'Mechs that you can find in stores or FP crates, you may now find PXH-1B parts.
 
-Version 1.4.7
+Version 1.4.7b
 
 – TBD has been updated to version 1.4.7b. In version 1.4.7 there was a critical error related to the starmap, I apologize. Reinstall the mod as usual.
 
+Version 1.4.7b
+
+– Another critical error was discovered, so TBD has been updated to version 1.4.7C. At the same time, all the folders were repacked from rar to zip – I mean, everything in general, not only the mod itself.
+We're waiting for 1.4.7D, I guess? I express special thanks to Paulobrito for finding errors and Kierk for the solution.
 
 # FAQ:
 – I installed this mod and it doesn't work!
