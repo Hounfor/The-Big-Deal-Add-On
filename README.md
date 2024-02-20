@@ -390,7 +390,7 @@ Version 1.4.7
 
 Version 1.4.7
 
-– TBD has been updated to version 1.4.7b. In version 1.4.7 there was a critical error related to the star map, I apologize. Reinstall the mod as usual.
+– TBD has been updated to version 1.4.7b. In version 1.4.7 there was a critical error related to the starmap, I apologize. Reinstall the mod as usual.
 
 
 # FAQ:
