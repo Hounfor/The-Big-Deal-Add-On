@@ -5,9 +5,11 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – Lots of different notes, descriptions and references. Although the plot doesn't claim to be a masterpiece of literature, I hope you enjoy it.
 
-– 12 new events, 6 of which are random, and it's up to you whether they happen or not.
+– In version 1.5, another small flashpoint campaign was added to start the game, aimed at medium and medium-light companies. TIME FOR SPITE AND VIOLENCE!
 
-– 45 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 2 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
+– 17 new events, 7 of which are random, and it's up to you whether they happen or not.
+
+– 47 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 3 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
 
 – Several new Ronin Mechwarriors.
 
@@ -19,7 +21,7 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – Guardian ECM and Beagle Active Probe are now available not only as fixed equipment: you can find them in stores and FP reward crates (including vanilla FPs), however, these are rare equipment and hard to find; the above also applies to AMS + +. Incidentally, NARC + + and TAG + + have also been added to stores.
 
-– 12 new emblems for your mercenary unit.
+– 16 new emblems for your mercenary unit.
 
 – The Hell Of A Deal event has been fixed, so you no longer get some stupid LRM launcher for a million – only ‘Mech parts. However, it can still be either LosTech 'Mechs or quite ordinary models, so it all depends on luck.
 
@@ -37,7 +39,11 @@ How to start the campaign:
 
 – If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
 
-Current version is 1.4.7d, added 02/21/2024.
+How to start a new campaign added in version 1.5:
+
+– From time to time, a flashpoint appears in the Cadiz (DC) system. This is your starting point.
+
+Current version is 1.5, added 03/25/2024.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -90,13 +96,13 @@ Then unzip The Big Deal Add-On – BEX + CAC-C archive and move all folders from
 
 – For an original version of BEX with Solaris 7 mod:
 
-Install BattleTech Extended 3025-3061, then install the Solaris 7 modification, also confirming the file replacement. Then unpack the archive The Big Deal Add-On – BEX and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEX) archive and move the folder from there to your Mods folder, confirming the file replacement.
+Install BattleTech Extended 3025-3061, then install the Solaris 7 modification **(except the Extended Conversations folder, TBD uses newer version of it)**, also confirming the file replacement. Then unpack the archive The Big Deal Add-On – BEX and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEX) archive and move the folder from there to your Mods folder, confirming the file replacement.
 
 – For BEX with BTX CAC Compatibility and Solaris 7 mods:
 
 Install BattleTech Extended 3025-3061, then install BTX CAC Compatibility following the instructions here: https://github.com/mcb5637/BTX_CAC_Compatibility
 
-Then install the Solaris 7 modification, also confirming the replacement of the files. The next step is to extract The Big Deal Add-On – BEX + CAC-C archive and move all folders from there to your Mods folder, confirming the replacement of files. Finally, unzip The Big Deal – Solaris Patch (BEX + CAC) archive and move the folder from there to your Mods folder, confirming the replacement of files.
+Then install the Solaris 7 modification **(except the Extended Conversations folder, TBD uses newer version of it)**, also confirming the replacement of the files. The next step is to extract The Big Deal Add-On – BEX + CAC-C archive and move all folders from there to your Mods folder, confirming the replacement of files. Finally, unzip The Big Deal – Solaris Patch (BEX + CAC) archive and move the folder from there to your Mods folder, confirming the replacement of files.
 
 – For a patch with improved medical equipment:
 
@@ -113,6 +119,8 @@ BEX + CAC + TBD: BEX -> CAC-C -> TBD -> Medical upgrades patch (optional)
 BEX + CAC + Solaris + TBD: BEX -> CAC-C -> Solaris 7 -> TBD -> Solaris patch -> Medical upgrades patch (optional)
 
 ATTENTION! If you are going to install BTX CAC Compatibility on an existing save with The Big Deal mod, you MUST put into storage ALL of your 'Mechs equipped with any Active Probes, ECM systems, Chameleon Light Polarization Shield and/or Null Signature System before installing, otherwise your saves may be damaged. If, after installing BTX CAC Compatibility and the corresponding version of The Big Deal, these BattleMechs still have problems, then delete them using the save editor and add them again – in this case, the problem should be solved. Also, you will probably have to replace all Inferno launchers, AMS, ECM and Active Probes from the storage manually with similar equipment from the CAC Compatibility mod using the same editor. After installing the CAC Compatibility, you will also need to update TBD, replacing it with the CAC-compatible version: to do this, delete the existing fps_TheBigDealBEXCE folder in your Mods folder and install the CAC-compatible version following the instructions above.
+
+ATTENTION! Random spawns for flashpoints are disabled in TBD. If for some reason you reinstall Mission Control mod, then make sure that the contents of the corresponding folder from TBD zip are still in place. This is important, because otherwise you have every chance of being unable to complete the campaign – you will simply be torn apart.
 
 # Changelog:
 Version 1.1:
@@ -401,6 +409,62 @@ Version 1.4.7d
 
 – Fixed a bug with an excessive number of rewards in the WW episode.
 
+Version 1.5
+
+– A new flashpoint campaign, you can start it in Cadiz (DC), where the first episode appears from time to time. It's not nearly as big as TBD, but you'll still find tons of references, conversations, mini-bosses, and great loot. The campaign is designed for the early game phases: it will be quite difficult for a medium-light company, more or less ok for a medium company, for heavy 'Mechs it should be easy. TIME FOR SPITE AND VIOLENCE!
+
+– Two new 'Mechs: Crab CRB-27sl and a new unique 'Mech that you can get as a reward for the campaign.
+
+– A new Ronin you can hire. Or not hire, who knows but you?
+
+– 5 new events, including one random one.
+
+– 4 new logos for your company.
+
+– Added new text descriptions for conversations in the campaign.
+
+– TBD now uses the Extended Conversations mod. CWolf's permission has been received.
+
+– The way of adding new factions and ammunition to the Rail Gun has been changed especially for Warenwolf (aka MRB). Now the BEX source files are not overwritten; instead, the corresponding code is “injected” through ModTek.
+
+– The “Ruins” tag for all planets on the star map has finally been fixed, and this now works not only for a new career, but also for current saves. Many thanks to mcb for the scripts for this.
+
+– Star systems are no longer overwritten during installation (except for Inner End, there was a typo that can only be corrected manually through overwriting).
+
+– One new condition has been added to the “Oldtimer” event; now, in order to purchase Warhammer 6Rk from Bob Kurita, you will need to complete at least the first episode of the new campaign in any way. All previous launch conditions are also still in place.
+
+– Slightly increased the chance of triggering the Crafty Hands event.
+
+– Slightly changed Yang's thoughts for Phoenix 4R.
+
+– Fixed a typo in the list of rewards for the WW episode, branch B.
+
+– Updated Xotl tables for SLRoyal.
+
+– All custom tanks in flashpoints have had their tags slightly adjusted.
+
+– The General you fight in the BS episode has been remade. No changes to the loadout, just a fix.
+
+– Added a loader for the artillery turret in the TBD episode in the CAC-C version.
+
+– Updated mod.json in the CAC-C version.
+
+– Updated patch for compatibility with Solaris 7.
+
+– Updated data for manual entry.
+
+– The emergency zip has been updated in case new flashpoints break.
+
+– In the flashpoint The Opportunist, the starting tag is disabled. This means that you can still play TBD, it’s just that this flashpoint will not respawn constantly, but after a while if you have other flashpoints.
+
+– Fixed a bug with an excessive number of rewards in the WW episode.
+
+I would like to express my gratitude to mcb, MRB and Kierk for technical assistance, Keivar for the general idea, Holda-volk for the work on fine-tuning the portraits, Lullbaby of me for the face of the main antagonist, and I would especially like to say thanks to Perry Chalmers for proofreading 33 pages of texts for the new campaign. And, of course, to everyone whom I might have forgotten to mention, but who in one way or another contributed to the release of TBD 1.5. You're all cool and wonderful, you know?
+
+If you are using the Solaris 7 mod, then before installing version 1.5, be sure to delete the Extended Conversations folder in your Mods – TBD 1.5 now uses this mod too, but a newer version.
+
+ATTENTION: While version 1.5 is still save compatible and should run pretty well on the current BEX installation, I would still recommend doing a clean install due to changes to the star map and factions. Let me remind you that it's not necessary to delete CAB when reinstalling all your mods, only BEX and other mods.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 
@@ -483,7 +547,7 @@ All the best weapons and equipment you can get your hands on, as well as ace pil
 
 Here is the complete list:
 
-PLG-3Z, BLR-1GBc, BLR-1Gc, SPR-4F, CRD-1R, WVE-5Nsl, KSC-4I, KSC-4L, BWP-3A, GLH-1D and KY2-D-02:
+PLG-3Z, BLR-1GBc, BLR-1Gc, SPR-4F, CRD-1R, WVE-5Nsl, KSC-4I, KSC-4L, BWP-3A, CRB-27sl, GLH-1D and KY2-D-02:
 
 Find ComStar or WoB and kick their asses. Probably they will deploy these ‘Mechs. Some of them are also used by Snord's Irregulars.
 
@@ -604,17 +668,21 @@ lordruthermore – Rail Gun stats calculations, help with advices on BT lore and
 
 RJPhoenix – technical assistance with customizing the design of some 'Mechs and provided content from VXI_RealPirates.
 
-mcb – tech help with code and BTHospitalFix mod created specifically for TBD.
+mcb – tech help with code, BTHospitalFix mod created specifically for TBD and starmap fixes.
 
-CWolf – Mission Control extended lances fixes for TBD.
+Kierk – various technical assistance.
 
-Holda-volk – holoscreen images refinement, as well as portraits for two key characters in episodes 5 and 6. You can see more of the artist's works here: https://www.deviantart.com/holda-volk
+MRB – improving and simplifying the code for factions and ammo.
+
+CWolf – Mission Control extended lances fixes for TBD, also, with his permission, the Extended Conversations mod was added.
+
+Holda-volk – holoscreen images refinement, as well as portraits for three key characters. You can see more of the artist's works here: https://www.deviantart.com/holda-volk
 
 Anna Shekhovtsova – face and appearance of one of the key characters of the campaign, albeit episodic.
 
 Pode – main idea behind The General's weaponry.
 
-Lullbaby of me – minor editing of the third episode.
+Lullbaby of me – minor editing of the third episode and idea for the face of the main antagonist in S&V campaign.
 
 Winterless – text edits for the WHM-6Rk and related event.
 
@@ -632,8 +700,8 @@ Xaero – proposal to add ECM and BAP to stores and reward crates.
 
 Dephylr, aka Sidika –  idea for the fanciest new emblem.
 
-And many other people from the BattleTech Extended discord server who helped with countless little questions and ideas.
+And many other people from the BattleTech Extended discord server who helped with countless little questions and ideas. You're all cool and wonderful, you know?
 
-I express my special gratitude to Waladil for a truly titanic work on proofreading and correcting 67 pages of text used in the modification.
+I express my special gratitude to Waladil for a truly titanic work on proofreading and correcting 67 pages of text used in TBD campaign and to Perry Chalmers for proofreading 33 pages of text used in S&V campaign.
 
 I would also like to thank Haree and everyone who had a hand in the creation of BattleTech Extended 3025-3061 for a great mod, the Sarna.net team, whose descriptions were used in the files of the new BattleMechs, and the MegaMek team, since MegaMekLab data was used to create new ‘Mechs.
