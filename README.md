@@ -509,7 +509,7 @@ Version 1.6
 
 – There was a typo in the new 'Mech for Whistler. Fixed, the mod has been updated to version 1.5.2b.
 
-At first, two warnings:
+At first, 3 warnings:
 
 1) <b>.UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
 
