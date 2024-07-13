@@ -574,6 +574,8 @@ Fixes and edits:
 
 – Updated mod.json for CAC-C in the appropriate version, compatibility patch for Solaris 7, emergency files and info for manual input.
 
+Special thanks to Kierk for providing the Expansion Pack resources.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 
