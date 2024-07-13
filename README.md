@@ -549,7 +549,7 @@ Fixes and edits:
 
 – Fixed CrossCuts, a lot of things were done wrong there. There are also internal fixes for the Kyudo chassis.
 
-– Fixed tags for Quickdraw 4H and Warhammer 6Rk. 6Rk has fallen in price by 100,000, so in the event for its purchase it also costs a little less. And now that specific 'Mech that Bob can sell you, when destroyed, drops parts of the standard 6Rk to avoid confusion.
+– Fixed tags for Quickdraw 4H and Warhammer 6Rk. 6Rk has fallen in price by 100,000, so in the event for its purchase it costs a little less too. And now that specific 'Mech that Bob can sell you, when destroyed, drops parts of the standard 6Rk to avoid confusion.
 – Added missing Large Engine quirk for Rifleman 5CS.
 
 – RF2-A in the CAC version now has symmetrical hardpoints (thanks to Polyonymous for the report).
