@@ -7,9 +7,11 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – In version 1.5, another small flashpoint campaign was added to start the game, aimed at medium and medium-light companies. TIME FOR SPITE AND VIOLENCE!
 
-– 17 new events, 7 of which are random, and it's up to you whether they happen or not.
+– Version 1.6 adds a third flashpoint campaign that you can start in the Raman system.
 
-– 47 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 3 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
+– 22 new events, 8 of which are random, and it's up to you whether they happen or not.
+
+– 55 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 3 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
 
 – Several new Ronin Mechwarriors.
 
@@ -17,11 +19,11 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – 4 new upgrades for Argo that will significantly increase the chances of your MechWarriors surviving when their 'Mechs are destroyed.
 
-– 2 pieces of new unique equipment for your BattleMechs.
+– 3 pieces of new unique equipment for your BattleMechs.
 
 – Guardian ECM and Beagle Active Probe are now available not only as fixed equipment: you can find them in stores and FP reward crates (including vanilla FPs), however, these are rare equipment and hard to find; the above also applies to AMS + +. Incidentally, NARC + + and TAG + + have also been added to stores.
 
-– 16 new emblems for your mercenary unit.
+– 26 new emblems for your mercenary unit.
 
 – The Hell Of A Deal event has been fixed, so you no longer get some stupid LRM launcher for a million – only ‘Mech parts. However, it can still be either LosTech 'Mechs or quite ordinary models, so it all depends on luck.
 
@@ -43,7 +45,11 @@ How to start a new campaign added in version 1.5:
 
 – From time to time, a flashpoint appears in the Cadiz (DC) system. This is your starting point.
 
-Current version is 1.5, added 03/25/2024.
+How to start a new campaign added in version 1.6:
+
+– From time to time, a flashpoint appears in the Raman system. This is your starting point.
+
+Current version is 1.6, added 07/13/2024.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -465,6 +471,107 @@ If you are using the Solaris 7 mod, then before installing version 1.5, be sure 
 
 ATTENTION: While version 1.5 is still save compatible and should run pretty well on the current BEX installation, I would still recommend doing a clean install due to changes to the star map and factions. Let me remind you that it's not necessary to delete CAB when reinstalling all your mods, only BEX and other mods.
 
+Version 1.5.1
+
+– Flashpoint “Spite and Violence” has an increased chance of spawning at the request of players. Perhaps it’s now even too high, so further adjustments are not excluded.
+
+– Assault and almost all heavy 'Mechs except 60-ton ones have been removed from the possible rewards of “Spite and Violence”, but you can still get their parts as a reward in the FP crate. On the other hand, the list of light, medium and heavy 60-ton 'Mechs in possible rewards for this FP has been expanded.
+
+– Replaced the unit icon for the Battle Budgies to make them look a little less wacky.
+
+– I’ve been waiting for this for 2.5 years since the start of development of the Black Sabbath FP and it’s finally happened: Hammerhands got its own model, and it looks amazing. Thanks Shade for a great job done. The icon has also been replaced, and Hammerhands now finally uses its own affinity instead of the one shared with BattleAxe.
+
+– In the Black Sabbath FP, Whistler now drives a modified Hammerhands instead of a JagerMech, as was originally intended during development.
+
+– In the same episode, the first conversation was slightly edited, because Dieter and Yang could not help but react to a 'Mech like this.
+
+– All Exterminators finally use their own model instead of the rescaled Assassin. Icons and affinities have also been updated. Thanks to Kierk for providing the files for this.
+
+– Added model 4C Exterminator to both versions, the one that has the Null Signature System and Chameleon LPS. Used by WoB and ComStar. Thanks again to Kierk for providing the files.
+
+– Added 5 new logos for your gang of mechwarriors.
+
+– Added a patch from Kierk for compatibility of BEX with the new version of CAB.
+
+– Updated Xotl table for SLRoyal.
+
+– Updated data for manual entry.
+
+Version 1.5.2
+
+– I apologize, but in version 1.5.1 2 files were missing that are responsible for interaction with the new CAB. Mod updated to version 1.5.2, files returned, reinstall it as usual.
+
+Version 1.5.2b
+
+– There was a typo in the new 'Mech for Whistler. Fixed, the mod has been updated to version 1.5.2b.
+
+Version 1.6
+
+– There was a typo in the new 'Mech for Whistler. Fixed, the mod has been updated to version 1.5.2b.
+
+At first, two warnings:
+
+1) <b>.UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
+
+2) If you have any Spector, put it in storage, preferably before installation, but possible after. When you update TBD, you can take it out from there and re-equip it again.
+
+3) I finally restored access to GitHub, so now there will be up-to-date versions again.
+
+Here's what's new with us:
+
+– A new campaign of 3 flashpoints, the difficulty is increasing. You can start it in the Raman system, this is the Davion world near the border with Kurita. Written by Hrothgar Heavenlight, edited by me, proofread by Perry Chalmers. Holda-volk worked on the new portraits.
+
+– 7 new BattleMechs – 4 Excalibur and 3 Shogun.
+
+– 1 new Ronin pilot.
+
+– 5 new events, one of them random.
+
+– 5 new emblems for your unit.
+
+– 1 unit of new unique equipment. Just like the Command Module from Dieter Anders or the TTS from Hyena, you can only get it once per career/campaign.
+
+– 1 new The Mackies album cover as bonus content.
+
+Fixes and edits:
+
+– Hella lot of text corrections. You're unlikely to notice them – they're mostly typos/incorrect characters, but they're there.
+
+– Fixed actuators for all Stone Rhinos (again), Corsairs, Kyudos, CrossCuts, Spectors and some custom enemy 'Mechs. For both Spectors, the incorrect placement of the ECM systems has also been corrected.
+
+– The cost of all playable chassis added by TBD has been correctly recalculated.
+
+– Exterminator 4C has been removed from the СAС-C version. Don't panic, it was just added to СAС-С directly, there's no need to duplicate it.
+
+– Fixed missing Linesman model (now looks like Mauler), Duan Gung and Turhan APC got their own models. The Stone Rhino model has also been updated and looks great. Many thanks to Transient74 for fine-tuning it for BEX. Also updated icons and affinities for all of them except the APC.
+
+– Fixed CrossCuts, a lot of things were done wrong there. There are also internal fixes for the Kyudo chassis.
+
+– Fixed tags for Quickdraw 4H and Warhammer 6Rk. 6Rk has fallen in price by 100,000, so in the event for its purchase it also costs a little less. And now that specific 'Mech that Bob can sell you, when destroyed, drops parts of the standard 6Rk to avoid confusion.
+– Added missing Large Engine quirk for Rifleman 5CS.
+
+– RF2-A in the CAC version now has symmetrical hardpoints (thanks to Polyonymous for the report).
+
+– The Command Module that Dieter gives you now weighs 5 tons to make it slightly less OP. Testarossa, accordingly, has 2 less DHS.
+
+– Added a respawn fix for missions, now planets gutted to 0 instead of 0-2 missions should have up to 5 after a while. Thanks to Enabling for the code for this fix.
+
+– More enemies have been added to the Rat Race flashpoint.
+
+– The MMRNR FP has been significantly redesigned. The enemies are weaker, but since you are literally using the same Mackies all 4 missions, you won't have full armor after mission 1.
+
+– in TBD campaign, the camera settings during conversations within missions have been edited.
+
+– The spawn frequency of Kyudo, Raifleman 2N, Crusader 1R, Wyvern 5Nsl, Rillager 1N and Thag 11Eb has been significantly reduced. Parts and assembled chassis of the RFL-2N and PLG-1N are no longer sold in stores.
+
+– Fixed missing commas in many castdefs, as well as Rider settings in the final episode of the S&V campaign.
+
+– Updated Xotl tables, added new LAMs from CAC-C, Excalibur B1 and Shogun 2H.
+
+– Updated the BTAdditionalDificultyOptions mod to work correctly in 1.6 (thanks mcb, this code has been waiting in the wings for 2 years).
+
+– Updated mod.json for CAC-C in the appropriate version, compatibility patch for Solaris 7, emergency files and info for manual input.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 
@@ -547,9 +654,13 @@ All the best weapons and equipment you can get your hands on, as well as ace pil
 
 Here is the complete list:
 
-PLG-3Z, BLR-1GBc, BLR-1Gc, SPR-4F, CRD-1R, WVE-5Nsl, KSC-4I, KSC-4L, BWP-3A, CRB-27sl, GLH-1D and KY2-D-02:
+PLG-3Z, BLR-1GBc, BLR-1Gc, SPR-4F, CRD-1R, WVE-5Nsl, KSC-4I, KSC-4L, THG-11Eb, CRB-27sl, EXT-4C, EXC-B1, EXC-B2. EXC-B2b, EXC-C1, SHG-2H, GLH-1D and KY2-D-02:
 
 Find ComStar or WoB and kick their asses. Probably they will deploy these ‘Mechs. Some of them are also used by Snord's Irregulars.
+
+SHG-2E and 2F:
+
+Wolf's Dragoons are your friends.
 
 SPR-5F:
 
@@ -557,7 +668,7 @@ Davion and Steiner forces, their elite units and ComStar, but only after 01/01/3
 
 RFL-2N:
 
-Pretty common model, so literally everywhere, stores included.
+This was a pretty common model, but is now extinct, so it's everywhere, but quite rare.
 
 KY2-D-01:
 
@@ -565,7 +676,7 @@ Primitive 'Mech, can be found in local troops and peripheral states.
 
 PLG-1N:
 
-It's found in about the same places as the Victor models A and A1, but has a slightly lower chance of appearing. The entire 'Mechs and parts for assembly also can be found on the markets of the Liao and Davion Houses.
+It's found in about the same places as the Victor models A and A1, but has a lower chance of appearing.
 
 WHM-6Rk:
 
@@ -700,8 +811,10 @@ Xaero – proposal to add ECM and BAP to stores and reward crates.
 
 Dephylr, aka Sidika –  idea for the fanciest new emblem.
 
+Enabling – contract respawn fix.
+
 And many other people from the BattleTech Extended discord server who helped with countless little questions and ideas. You're all cool and wonderful, you know?
 
-I express my special gratitude to Waladil for a truly titanic work on proofreading and correcting 67 pages of text used in TBD campaign and to Perry Chalmers for proofreading 33 pages of text used in S&V campaign.
+I express my special gratitude to Waladil for a truly titanic work on proofreading and correcting 67 pages of text used in TBD campaign and to Perry Chalmers for proofreading 33 pages of text used in S&V campaign and the whole text for the Carnor Sal's campaign.
 
 I would also like to thank Haree and everyone who had a hand in the creation of BattleTech Extended 3025-3061 for a great mod, the Sarna.net team, whose descriptions were used in the files of the new BattleMechs, and the MegaMek team, since MegaMekLab data was used to create new ‘Mechs.
