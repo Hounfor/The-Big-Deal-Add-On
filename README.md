@@ -564,7 +564,7 @@ Fixes and edits:
 
 – in TBD campaign, the camera settings during conversations within missions have been edited.
 
-– The spawn frequency of Kyudo, Raifleman 2N, Crusader 1R, Wyvern 5Nsl, Pillager 1N and Thug 11Eb has been significantly reduced. Parts and assembled chassis of the RFL-2N and PLG-1N are no longer sold in stores.
+– The spawn frequency of Kyudo, Rifleman 2N, Crusader 1R, Wyvern 5Nsl, Pillager 1N and Thug 11Eb has been significantly reduced. Parts and assembled chassis of the RFL-2N and PLG-1N are no longer sold in stores.
 
 – Fixed missing commas in many castdefs, as well as Rider settings in the final episode of the S&V campaign.
 
