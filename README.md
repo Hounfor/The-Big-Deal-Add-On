@@ -521,7 +521,7 @@ Here's what's new with us:
 
 – A new campaign of 3 flashpoints, the difficulty is increasing. You can start it in the Raman system, this is the Davion world near the border with Kurita. Written by Hrothgar Heavenlight, edited by me, proofread by Perry Chalmers. Holda-volk worked on the new portraits.
 
-– 7 new BattleMechs – 4 Excalibur and 3 Shogun.
+– 7 new BattleMechs – 4 Excaliburs and 3 Shoguns.
 
 – 1 new Ronin pilot.
 
