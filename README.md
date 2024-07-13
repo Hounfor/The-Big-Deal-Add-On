@@ -535,6 +535,8 @@ Here's what's new with us:
 
 Fixes and edits:
 
+– Only for GitHub version: bonus content in the form of The Mackies covers is moved to its own zip.
+
 – Hella lot of text corrections. You're unlikely to notice them – they're mostly typos/incorrect characters, but they're there.
 
 – Fixed actuators for all Stone Rhinos (again), Corsairs, Kyudos, CrossCuts, Spectors and some custom enemy 'Mechs. For both Spectors, the incorrect placement of the ECM systems has also been corrected.
