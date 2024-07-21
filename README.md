@@ -509,7 +509,7 @@ Version 1.6
 
 At first, 3 warnings:
 
-1) <b>.UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
+1) <b>UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
 
 2) If you have any Spector, put it in storage, preferably before installation, but possible after. When you update TBD, you can take it out from there and re-equip it again.
 
@@ -576,7 +576,7 @@ Special thanks to Kierk for providing the Expansion Pack resources.
 
 Version 1.6.1
 
-<b>.UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
+<b>UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
 
 – Added a bunch of fixes from Kierk:
 1) The stability of all Excaliburs and their quirks have been adjusted, the role has been changed to skirmisher AND sniper. An additional ballistic hardpoint has been added to the C1 model.
