@@ -580,7 +580,9 @@ Version 1.6.1
 
 – Added a bunch of fixes from Kierk:
 1) The stability of all Excaliburs and their quirks have been adjusted, the role has been changed to skirmisher AND sniper. An additional ballistic hardpoint has been added to the C1 model.
-2) Changed melee damage for all Shoguns, fixed missing buff to hit chance. Shoguns also now use the Urban Combatant affinity.
+2) Changed melee damage for all Shoguns, fixed missing buff to the hit chance. Shoguns also now use the Urban Combatant affinity.
+
+– Fixed missing buff to the melee hit chance for all of the Hammerhands 'Mechs.
 
 – The 4D and 5D Riflemen now use the same built-in rangefinder as the 2N model.
 
