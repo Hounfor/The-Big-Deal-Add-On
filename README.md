@@ -49,7 +49,7 @@ How to start a new campaign added in version 1.6:
 
 – From time to time, a flashpoint appears in the Raman system. This is your starting point.
 
-Current version is 1.6, added 07/13/2024.
+Current version is 1.6.1, added 07/21/2024.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -507,8 +507,6 @@ Version 1.5.2b
 
 Version 1.6
 
-– There was a typo in the new 'Mech for Whistler. Fixed, the mod has been updated to version 1.5.2b.
-
 At first, 3 warnings:
 
 1) <b>.UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
@@ -575,6 +573,18 @@ Fixes and edits:
 – Updated mod.json for CAC-C in the appropriate version, compatibility patch for Solaris 7, emergency files and info for manual input.
 
 Special thanks to Kierk for providing the Expansion Pack resources.
+
+Version 1.6.1
+
+<b>.UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
+
+– Added a bunch of fixes from Kierk:
+1) The stability of all Excaliburs and their quirks have been adjusted, the role has been changed to skirmisher AND sniper. An additional ballistic hardpoint has been added to the C1 model.
+2) Changed melee damage for all Shoguns, fixed missing buff to hit chance. Shoguns also now use the Urban Combatant affinity.
+
+– The 4D and 5D Riflemen now use the same built-in rangefinder as the 2N model.
+
+– Naginata and Kyudo got their own models, icons and affinities.
 
 # FAQ:
 – I installed this mod and it doesn't work!
