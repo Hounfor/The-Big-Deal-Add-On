@@ -49,7 +49,7 @@ How to start a new campaign added in version 1.6:
 
 – From time to time, a flashpoint appears in the Raman system. This is your starting point.
 
-Current version is 1.6.1, added 07/21/2024.
+Current version is 1.6.2, added 08/05/2024.
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -587,6 +587,22 @@ Version 1.6.1
 – The 4D and 5D Riflemen now use the same built-in rangefinder as the 2N model.
 
 – Naginata and Kyudo got their own models, icons and affinities.
+
+Version 1.6.2
+
+<b>UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
+
+– The non-CAC version should now work fine – some changes were made to the Kyudo model, which previously caused problems with launching without using the CU code. Thanks to the CAB team for the fix.
+
+– Slightly changed the hardpoints of both Kyudo chassis.
+
+– Fixed the custom Helepolis in TBD campaign (Mr. Crowley, Black Sabbath episode).
+
+– Striker got its own model (thanks to Transient74), affinity and icon (thanks to Kierk).
+
+– Updated Xotl tables.
+
+– Updated manual input data.
 
 # FAQ:
 – I installed this mod and it doesn't work!
