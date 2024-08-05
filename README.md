@@ -596,7 +596,7 @@ Version 1.6.2
 
 – Slightly changed the hardpoints of both Kyudo chassis.
 
-– Fixed the custom Helepolis in TBD campaign (Mr. Crowley, Black Sabbath episode).
+– Fixed the custom Helepolis in TBD campaign (Mr. Crowley, Black Sabbath episode). Fix provided by Kierk.
 
 – Striker got its own model (thanks to Transient74), affinity and icon (thanks to Kierk).
 
