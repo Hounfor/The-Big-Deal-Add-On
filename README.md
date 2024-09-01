@@ -102,13 +102,13 @@ Then unzip The Big Deal Add-On – BEX + CAC-C archive and move all folders from
 
 – For an original version of BEX with Solaris 7 mod:
 
-Install BattleTech Extended 3025-3061, then install the Solaris 7 modification **(except the Extended Conversations folder, TBD uses newer version of it)**, also confirming the file replacement. Then unpack the archive The Big Deal Add-On – BEX and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEX) archive and move the folder from there to your Mods folder, confirming the file replacement.
+Install BattleTech Extended 3025-3061, then install the Solaris 7 modification **(except the Extended Conversations and BT_Extended_Timeline folders, TBD uses newer version of it)**, also confirming the file replacement. Then unpack the archive The Big Deal Add-On – BEX and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEX) archive and move the folder from there to your Mods folder, confirming the file replacement.
 
 – For BEX with BTX CAC Compatibility and Solaris 7 mods:
 
 Install BattleTech Extended 3025-3061, then install BTX CAC Compatibility following the instructions here: https://github.com/mcb5637/BTX_CAC_Compatibility
 
-Then install the Solaris 7 modification **(except the Extended Conversations folder, TBD uses newer version of it)**, also confirming the replacement of the files. The next step is to extract The Big Deal Add-On – BEX + CAC-C archive and move all folders from there to your Mods folder, confirming the replacement of files. Finally, unzip The Big Deal – Solaris Patch (BEX + CAC) archive and move the folder from there to your Mods folder, confirming the replacement of files.
+Then install the Solaris 7 modification **(except the Extended Conversations and BT_Extended_Timeline folders, TBD uses newer version of it)**, also confirming the replacement of the files. The next step is to extract The Big Deal Add-On – BEX + CAC-C archive and move all folders from there to your Mods folder, confirming the replacement of files. Finally, unzip The Big Deal – Solaris Patch (BEX + CAC) archive and move the folder from there to your Mods folder, confirming the replacement of files.
 
 – For a patch with improved medical equipment:
 
