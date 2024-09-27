@@ -584,7 +584,7 @@ Version 1.6.3 for BEX 1.9.3.7
 
 <b>UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
 
-– Fixed incorrect cost of WVE-5Nsl parts in CAC-C version, thanks to Kiers for pointing it.
+– Fixed incorrect cost of WVE-5Nsl parts in CAC-C version, thanks to Kierk for pointing it.
 
 – Mercury got its own model, icon and affinity, as well as a fix for Yang's comment for the 98 model.
 
