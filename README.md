@@ -82,7 +82,7 @@ To manually configure compatibility with other modifications, you can use the Da
 # Installation:
 **ATTENTION!** The only official download sources are:
 
-If you downloaded The Big Deal add-on from somewhere else, it’s NOT guaranteed to work normal, nor is it safe to use the contents of the archive.
+If you downloaded The Big Deal add-on from somewhere else, it’s NOT guaranteed to work normal, nor is it safe to use the contents of the zip.
 
 – For an original BEX version:
 
