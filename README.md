@@ -606,6 +606,8 @@ Version 1.6.3 for BEX Tactics 2.0.0.2
 
 – TBD campaign is now limited to a timeline from April 3034 to April 3056.
 
+– Changed enemies in the mission with the RF2-A test drive.
+
 – Some special enemies were armed with Inferno SRMs in the СAС version. Now they are armed with them in the base version as well. Get a fire extinguisher, ha-ha.
 
 – Updated data for manual input.
