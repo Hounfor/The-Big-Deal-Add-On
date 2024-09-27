@@ -3,15 +3,13 @@ The Big Deal add-on for BattleTech Extended Tactics (aka BEX) is a pack of flash
 
 – Three flashpoint campaigns of varying difficulty levels, namely:
 
-     A) Spite & Violence. This campaign is focused on the early stages of the game, you'll need at 
-     least a light and medium 'Mechs combo. If you have heavy or assault 'Mechs, then this will be easy.
-     
-     B) Old Friend. This campaign is designed according to the Hrothgar Heavenlight scenario, its 
-     difficulty increases, similar to the vanilla DLC Heavy Metal. However, it's more difficult than that 
-     DLC.
-     
-     C) The Big Deal. The entire add-on was originally built around this campaign. **Its difficulty is a**
-     **nightmare. You have been warned.** You'll need the best you can get to complete it.
+1) Spite & Violence. This campaign is focused on the early stages of the game, you'll need at 
+least a light and medium 'Mechs combo. If you have heavy or assault 'Mechs, then this will be easy. 
+2) Old Friend. This campaign is designed according to the Hrothgar Heavenlight scenario, its 
+difficulty increases, similar to the vanilla DLC Heavy Metal. However, it's more difficult than that 
+DLC.   
+3) The Big Deal. The entire add-on was originally built around this campaign. **Its difficulty is a**
+**nightmare. You have been warned.** You'll need the best you can get to complete it.
      
 – Lots of different notes, descriptions and references.Although the plots don't claim to be literary masterpieces, I think you will enjoy them.
 
@@ -614,16 +612,16 @@ Version 1.6.3 for BEX Tactics 2.0.0.2
 # FAQ:
 – I installed this mod and it doesn't work!
 The mod has been tested countless times during development and triple checked before release. Everything worked and the campaign is available for the full playthrough, I'm sure of it. Still, patches are coming and the content is changing, so if something doesn’t work for you, then, I suppose, one of the three:
-     1) You installed this mod incorrectly: unpacked it in the wrong place, didn’t confirm the replacement of files during installation, or didn’t follow the installation order.
-     2) Your installation of BattleTech Extended is corrupt, installed incorrectly, or is below 2.0.
-     3) There's something third-party in your mods assembly that conflicts with The Big Deal.
+1) You installed this mod incorrectly: unpacked it in the wrong place, didn’t confirm the replacement of files during installation, or didn’t follow the installation order.
+2) Your installation of BattleTech Extended is corrupt, installed incorrectly, or is below 2.0.
+3) There's something third-party in your mods assembly that conflicts with The Big Deal.
 
 In this case, I advise you to delete everything that is in your Mods folder, and perform a completely clean installation of all the necessary mods according to the instructions for them. This should fix the issue.
 
 – My game crashes while launching a mission, what's the problem?
 If an error is indicated in the BT log, the code of which contains the blocks ***NullReferenceException: Object reference not set to an instance of an object*** and ***(UnityEngine.Transform parentTransform)***, then your CAB files are damaged. So far, only one such case has been reported, the problem is solved through the CAB installer in two ways:
-     1) Run it, click "Advanced Mode", check the box "Correct Corrupted Files", start the installation. Damaged files should be fixed automatically.
-     2) Complete reinstallation of all CAB directories after deleting the existing ones.
+1) Run it, click "Advanced Mode", check the box "Correct Corrupted Files", start the installation. Damaged files should be fixed automatically.
+2) Complete reinstallation of all CAB directories after deleting the existing ones.
 
 – I can't launch the next flashpoint in %any% campaign, what should I do?
 I've been told about this error many times, but I couldn't reproduce it, and therefore fix it – everything works fine in tests. But there'is a solution, albeit a primitive one: use the contents of the  Emergency files – manual FP start zip, there are instructions there.
@@ -674,13 +672,13 @@ From time to time, a flashpoint appears in the Raman system. This is your starti
 Again, you didn't read the description carefully. The modification is fully compatible with existing saves for BattleTech Extended.
 
 – What will I need to complete these campaigns?
-     A) For the Spite & Violence FPs you'll want at least a couple of medium Mechs, but the better 
-     equipped your unit is, the easier it is. Heavy and assault 'Mechs should make this a walk in the 
-     park.
-     B) For the Old Friend campaign you will need chassis of different classes: both medium and heavy. 
-     Assaults are highly desirable for the end.
-     С) I already said that the Big Deal is a nightmare. For this campaign you'll need **the best of** 
-     **everything, cool heads and brains. And believe me, this isn't a joke.**
+1) For the Spite & Violence FPs you'll want at least a couple of medium Mechs, but the better 
+equipped your unit is, the easier it is. Heavy and assault 'Mechs should make this a walk in the 
+park.
+2) For the Old Friend campaign you will need chassis of different classes: both medium and heavy. 
+Assaults are highly desirable for the end.
+3) I already said that the Big Deal is a nightmare. For this campaign you'll need **the best of** 
+**everything, cool heads and brains. And believe me, this isn't a joke.**
 
 – I'm looking for new 'Mechs from the mod, where can I find them?
 Here is the complete list:
@@ -719,8 +717,8 @@ No, but I won't think ahead. All development of the mod is planned to be limited
 
 # Bugs:
 Not noticed, but nobody’s perfect, so various minor flaws, despite repeated testing, may still be present. However, there are things you should be aware of.
-1) Some BattleMechs (e.g. Pillager, Kyudo, Galahad, Spector, Hammerhands and some others) don't have their own models in CAB, so they use models from other 'Mechs. If someday there will be their own models for them, then this will be fixed, of course.
-2) Due to the lack of own models, some ‘Mechs don’t have their own affinities, so don’t be surprised, say, that the pilot of your Pillager knows how to drive a Kodiak. Again, this will be fixed if suitable models appear in the CAB.
+1) Some BattleMechs (only Galahad at the moment) don't have their own models in CAB, so they use models from other 'Mechs. If someday there will be their own models for them, then this will be fixed, of course.
+2) Due to the lack of own models, some ‘Mechs don’t have their own affinities, so don’t be surprised, say, that the pilot of your Galahad knows how to drive a Nova Cat 'Mech. Again, this will be fixed if suitable models appear in the CAB.
 3) Due to fewer internal slots than in the TT, some 'Mechs have a different heatsink layout relative to the TT. In particular, some heatsinks had to be built into the engine. This means that the cooling system is working fine, you just can't dismantle them to get more free tonnage, but at the same time, you can't lose these heat sinks in combat – unless, of course, your machine's CT is destroyed.
 4) Placement of Endo-, FF- and Endo + FF slots doesn’t match completely with TT loadouts. This is due to the smaller number of internal slots in BT MechLab, and also because BEX reduces the volume of this equipment by 1 slot. Not a problem, but you should be aware of it.
 
