@@ -5,7 +5,7 @@ The Big Deal add-on for BattleTech Extended Tactics (aka BEX) is a pack of flash
 
 1) Spite & Violence. This campaign is focused on the early stages of the game, you'll need at 
 least a light and medium 'Mechs combo. If you have heavy or assault 'Mechs, then this will be easy. 
-2) Old Friend. This campaign is designed according to the Hrothgar Heavenlight scenario, its 
+2) Old Friend. This campaign is designed according to the Hrothgar Heavenlight's scenario, its 
 difficulty increases, similar to the vanilla DLC Heavy Metal. However, it's more difficult than that 
 DLC.   
 3) The Big Deal. The entire add-on was originally built around this campaign. **Its difficulty is a**
