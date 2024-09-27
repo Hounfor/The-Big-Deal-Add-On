@@ -586,7 +586,7 @@ Version 1.6.3 for BEX 1.9.3.7
 
 – Fixed incorrect cost of WVE-5Nsl parts in CAC-C version, thanks to Kierk for pointing it.
 
-– Mercury got its own model, icon and affinity, as well as a fix for Yang's comment for the 98 model. If you have any Mercury, make sure to put it in the storage before installing the update.
+– Mercury got its own model, icon and affinity, as well as a fix for Yang's comment for the 98 model from Haree. If you have any Mercury, make sure to put it in the storage before installing the update.
 
 – Added 3 new emblems for your mercenary unit.
 
