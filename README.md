@@ -581,6 +581,7 @@ Version 1.6.2
 – Updated manual input data.
 
 Version 1.6.3 for BEX 1.9.3.7
+
 <b>UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
 
 – Fixed incorrect cost of WVE-5Nsl parts in CAC-C version, thanks to Kiers for pointing it.
