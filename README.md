@@ -610,6 +610,8 @@ Version 1.6.3 for BEX Tactics 2.0.0.2
 
 – Updated data for manual input.
 
+– Mod description updated.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 The mod has been tested countless times during development and triple checked before release. Everything worked and the campaign is available for the full playthrough, I'm sure of it. Still, patches are coming and the content is changing, so if something doesn’t work for you, then, I suppose, one of the three:
