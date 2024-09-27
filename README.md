@@ -41,7 +41,7 @@ How to start The Big Deal campaign:
 
 – If The Opportunist has NOT been activated by you yet, i.e. even if it spawned, but you did NOT start it, then everything will work as in the previous paragraph.
 
-– If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited from April 3034 to April 3056), the campaign will be considered failed.
+– If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough unit: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited from April 3034 to April 3056), the campaign will be considered failed.
 
 How to start the Spite & Violence campaign:
 
