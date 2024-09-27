@@ -1,17 +1,23 @@
 # The Big Deal Add-On
-The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign consisting of a chain of flashpoints similar to the original Heavy Metal DLC. The campaign is meant to be late game content and will require powerful 'Mechs, ace MechWarriors, rare and scarce gear and tactical flair from you: this is NOT vanilla flashpoints, it's significantly more difficult, but you can be sure – if you can handle it, then your suffering will pay off in full. To reiterate, I strongly recommend not to rush into the campaign, but to carefully prepare, and this means that you will definitely need the most trained pilots, DHS, various fancy 'Mechs from ComStar hunting, advanced basic and Lostech weapons. It would be more reasonable to call the campaign pre-Clan content – this should give you an idea of the level of preparation of your unit for a full playthrough. Here's what awaits you:
+The Big Deal add-on for BattleTech Extended Tactics (aka BEX) is a pack of flashpoint campaigns similar to the vanilla Heavy Metal DLC, combined with a 'Mech pack. Here's what awaits you:
 
-– Sequential campaign with a full story of 6 episodes: the very first one is taken from the vanilla Flashpoint DLC, the other 5 are completely new. Your enemies are for the most part well armed and prepared, so don't relax.
+– Three flashpoint campaigns of varying difficulty levels, namely:
 
-– Lots of different notes, descriptions and references. Although the plot doesn't claim to be a masterpiece of literature, I hope you enjoy it.
-
-– In version 1.5, another small flashpoint campaign was added to start the game, aimed at medium and medium-light companies. TIME FOR SPITE AND VIOLENCE!
-
-– Version 1.6 adds a third flashpoint campaign that you can start in the Raman system.
+     A) Spite & Violence. This campaign is focused on the early stages of the game, you'll need at 
+     least a light and medium 'Mechs combo. If you have heavy or assault 'Mechs, then this will be easy.
+     
+     B) Old Friend. This campaign is designed according to the Hrothgar Heavenlight scenario, its 
+     difficulty increases, similar to the vanilla DLC Heavy Metal. However, it's more difficult than that 
+     DLC.
+     
+     C) The Big Deal. The entire add-on was originally built around this campaign. **Its difficulty is a**
+     **nightmare. You have been warned.** You'll need the best you can get to complete it.
+     
+– Lots of different notes, descriptions and references.Although the plots don't claim to be literary masterpieces, I think you will enjoy them.
 
 – 22 new events, 8 of which are random, and it's up to you whether they happen or not.
 
-– 55 new BattleMechs: all ‘Mechs previously featured in the Oldtimer Pack + 3 new unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
+– 29 new BattleMechs, including 3 unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
 
 – Several new Ronin Mechwarriors.
 
@@ -23,38 +29,36 @@ The Big Deal add-on for BattleTech Extended 3025-3061 (aka BEX) is a campaign co
 
 – Guardian ECM and Beagle Active Probe are now available not only as fixed equipment: you can find them in stores and FP reward crates (including vanilla FPs), however, these are rare equipment and hard to find; the above also applies to AMS + +. Incidentally, NARC + + and TAG + + have also been added to stores.
 
-– 26 new emblems for your mercenary unit.
+– 29 new logos for your mercenary unit.
 
-– The Hell Of A Deal event has been fixed, so you no longer get some stupid LRM launcher for a million – only ‘Mech parts. However, it can still be either LosTech 'Mechs or quite ordinary models, so it all depends on luck.
+– Several minor extensions.
 
-– Several minor fixes, extensions and improvements.
-
-– Adapted version of The Big Deal for mcb's BTX CAC Compatibility mod, patches for compatibility with the Solaris 7 mod, and an optional patch for greater efficiency of new medical equipment. If it’s installed, then with all the new equipment for Argo, your MechWarriors will become immortal: they can still be injured, but it will be impossible to kill them by destroying the BattleMech, its head, or inflicting multiple wounds. This patch is NOT required to play, it’s fully optional – no need to install it if you don’t want to.
+– Patch for compatibility with the Solaris 7 mod, and an optional patch for greater efficiency of new medical equipment. If it’s installed, then with all the new equipment for Argo, your MechWarriors will become immortal: they can still be injured, but it will be impossible to kill them by destroying the BattleMech, its head, or inflicting multiple wounds. **This patch is NOT required to play, it’s fully optional – no need to install it if you don’t want to.**
 
 The mod is fully compatible with existing saves for BattleTech Extended.
 
-How to start the campaign:
+How to start The Big Deal campaign:
 
-– If you have started a NEW BattleTech campaign or career, The Big Deal campaign will start after completing The Opportunist flashpoint.
+– If you have started a NEW BattleTech campaign or career, The Big Deal campaign will start after completing The Opportunist flashpoint, which is available from April 3034 to April 3056.
 
 – If The Opportunist has NOT been activated by you yet, i.e. even if it spawned, but you did NOT start it, then everything will work as in the previous paragraph.
 
-– If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited), the campaign will be considered failed.
+– If you have ALREADY COMPLETED The Opportunist, the campaign will start at the start of The Letter event at a random time. In this case, I highly recommend installing it on existing saves ONLY if you have a tough team: each episode can be completed ONLY once. If you can't do it or don't have time (each flashpoint has 180 days to complete, except The Opportunist - its respawn is unlimited from April 3034 to April 3056), the campaign will be considered failed.
 
-How to start a new campaign added in version 1.5:
+How to start the Spite & Violence campaign:
 
 – From time to time, a flashpoint appears in the Cadiz (DC) system. This is your starting point.
 
-How to start a new campaign added in version 1.6:
+How to start the Old Friend campaign:
 
 – From time to time, a flashpoint appears in the Raman system. This is your starting point.
 
-Current version is 1.6.2, added 08/05/2024.
+Current version is 1.6.3, added 09/27/2024. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7, ONLY 2.0 OR HIGHER.**
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
 
-– Installed modification BattleTech Extended 3025-3061 version 1.9.3.7 with the BiggerDrops patch.
+– Installed modification BattleTech Extended Tactics version 2.0 or higher.
 
 # Compatibility with other mods:
 The Big Deal add-on will definitely conflict with any mods installed with BEX if they do any of the following:
@@ -71,48 +75,28 @@ The Big Deal add-on will definitely conflict with any mods installed with BEX if
 
 – Change the settings.json file at BATTLETECH\Mods\MechAffinity;
 
-– Change the starsystems jsons at BATTLETECH\Mods\ISM3025\StarSystemDefs. This doesn’t always happen and is not a critical bug, but it can change the tag settings for systems;
+– Change the starsystems jsons at BATTLETECH\Mods\BT_Extended_Timeline\starsystemDefinitive. This doesn't always happen and is not a critical bug, but it can change the tag settings for systems;
 
 – The mod is also incompatible with any mods that change the Mech Bay and the internal construction of the ‘Mechs, i.e. MechEngineer, etc.
 
-The above conflicts don’t apply to mcb's BTX CAC Compatibility mod, a separate version has been created for it: The Big Deal Add-On – BEX + CAC-C archive.
-
-To manually configure compatibility with other modifications, you can use the Data For Manual Compatibility Settings archive – all the new data used in the aforementioned files are indicated separately there, but PLEASE NOTE – it’s NOT intended for installation, only for manually entering values from there into your assembly on BEX basis. ATTEMPTING TO INSTALL THIS ARCHIVE IN THE MODS FOLDER WILL DAMAGE YOUR MODS.
+To manually configure compatibility with other modifications, you can use the Data For Manual Compatibility Settings archive – all the new data used in the aforementioned files are indicated separately there, but PLEASE NOTE – it’s NOT intended for installation, only for manually entering values from there into your assembly on BEX basis. **ATTEMPTING TO INSTALL THE CONTENT OF THAT ZIP IN THE MODS FOLDER WILL DAMAGE YOUR MODS.*
 
 # Installation:
-ATTENTION! At the moment, the only official download sources are:
-
-GitHub: https://github.com/Hounfor/The-Big-Deal-Add-On
-
-Mods-In-Exile: https://discourse.modsinexile.com/t/the-big-deal-add-on-for-battletech-extended-3025-3061/631
+**ATTENTION!** The only official download sources are:
 
 If you downloaded The Big Deal add-on from somewhere else, it’s NOT guaranteed to work normal, nor is it safe to use the contents of the archive.
 
-Before installing, ALWAYS put the Spector SPR-4F ‘Mech into storage if you have it, and delete the Oldtimer Pack or 'Mechs, Mercs & Rock'n'Roll mods if you have them installed. If you don’t do this, then your saves may be irreversibly damaged. Also go to your Mods folder and delete the .modtek folder there, it should be the very first one in the list (DO NOT confuse it with ModTek folder in any way!).
-
 – For an original BEX version:
 
-Install BattleTech Extended 3025-3061, then unpack The Big Deal Add-On – BEX archive and move all folders from there to your Mods folder, confirming the replacement of files.
-
-– For BEX in pair with BTX CAC Compatibility:
-
-Install BattleTech Extended 3025-3061, then install BTX CAC Compatibility following the instructions here: https://github.com/mcb5637/BTX_CAC_Compatibility
-
-Then unzip The Big Deal Add-On – BEX + CAC-C archive and move all folders from there to your Mods folder, confirming the replacement of files.
+Install BattleTech Extended Tactics, then unpack The Big Deal Add-On – BEX zip and move all folders from there to your Mods folder, confirming the replacement of files.
 
 – For an original version of BEX with Solaris 7 mod:
 
-Install BattleTech Extended 3025-3061, then install the Solaris 7 modification **(except the Extended Conversations and BT_Extended_Timeline folders, TBD uses newer version of it)**, also confirming the file replacement. Then unpack the archive The Big Deal Add-On – BEX and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEX) archive and move the folder from there to your Mods folder, confirming the file replacement.
-
-– For BEX with BTX CAC Compatibility and Solaris 7 mods:
-
-Install BattleTech Extended 3025-3061, then install BTX CAC Compatibility following the instructions here: https://github.com/mcb5637/BTX_CAC_Compatibility
-
-Then install the Solaris 7 modification **(except the Extended Conversations and BT_Extended_Timeline folders, TBD uses newer version of it)**, also confirming the replacement of the files. The next step is to extract The Big Deal Add-On – BEX + CAC-C archive and move all folders from there to your Mods folder, confirming the replacement of files. Finally, unzip The Big Deal – Solaris Patch (BEX + CAC) archive and move the folder from there to your Mods folder, confirming the replacement of files.
+Install BattleTech Extended Tactics, then install the Solaris 7 modification **(except the Extended Conversations and BT_Extended_Timeline folders)**, also confirming the file replacement. Then unpack the The Big Deal Add-On – BEX zip and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEX) zip and move the folder from there to your Mods folder, confirming the file replacement.
 
 – For a patch with improved medical equipment:
 
-Install the required set of mods according to the previous instructions, then unpack the Improved Medical Upgrades archive and place the folder from it in your Mods folder, confirming the replacement of the files. This patch is compatible with ALL versions of The Big Deal add-on.
+Install the required set of mods according to the previous instructions, then unpack the Improved Medical Upgrades zip and place the folder from it in your Mods folder, confirming the replacement of the files. This patch is compatible with ALL versions of The Big Deal add-on.
 
 Once again, the order of installation of all options in a shorter and more accessible form:
 
@@ -120,13 +104,7 @@ BEX + TBD: BEX -> TBD -> Medical upgrades patch (optional)
 
 BEX + Solaris + TBD: BEX -> Solaris 7 -> TBD -> Solaris patch -> Medical upgrades patch (optional)
 
-BEX + CAC + TBD: BEX -> CAC-C -> TBD -> Medical upgrades patch (optional)
-
-BEX + CAC + Solaris + TBD: BEX -> CAC-C -> Solaris 7 -> TBD -> Solaris patch -> Medical upgrades patch (optional)
-
-ATTENTION! If you are going to install BTX CAC Compatibility on an existing save with The Big Deal mod, you MUST put into storage ALL of your 'Mechs equipped with any Active Probes, ECM systems, Chameleon Light Polarization Shield and/or Null Signature System before installing, otherwise your saves may be damaged. If, after installing BTX CAC Compatibility and the corresponding version of The Big Deal, these BattleMechs still have problems, then delete them using the save editor and add them again – in this case, the problem should be solved. Also, you will probably have to replace all Inferno launchers, AMS, ECM and Active Probes from the storage manually with similar equipment from the CAC Compatibility mod using the same editor. After installing the CAC Compatibility, you will also need to update TBD, replacing it with the CAC-compatible version: to do this, delete the existing fps_TheBigDealBEXCE folder in your Mods folder and install the CAC-compatible version following the instructions above.
-
-ATTENTION! Random spawns for flashpoints are disabled in TBD. If for some reason you reinstall Mission Control mod, then make sure that the contents of the corresponding folder from TBD zip are still in place. This is important, because otherwise you have every chance of being unable to complete the campaign – you will simply be torn apart.
+**ATTENTION!** Random spawns for flashpoints are disabled in TBD. If for some reason you reinstall Mission Control mod, then make sure that the contents of the corresponding folder from TBD zip are still in place. This is important, because otherwise you have every chance of being unable to complete the campaign – you'll simply be torn apart.
 
 # Changelog:
 Version 1.1:
@@ -604,186 +582,139 @@ Version 1.6.2
 
 – Updated manual input data.
 
+Version 1.6.3 for BEX 1.9.3.7
+<b>UPDATE THE CAB BEFORE INSTALLING, OTHERWISE YOUR SAVES WILL NOT LOAD.</b>
+
+– Fixed incorrect cost of WVE-5Nsl parts in CAC-C version, thanks to Kiers for pointing it.
+
+– Mercury got its own model, icon and affinity, as well as a fix for Yang's comment for the 98 model.
+
+– Added 3 new emblems for your mercenary unit.
+
+– Added PDF with old description.
+
+Version 1.6.3 for BEX Tactics 2.0.0.2
+
+– The mod has been lightened by 26 chassis (ARC-5CS, BKX-7K/7NC, EXC-B2/B2b/C1, HMH-3D/4D, KSC-3I/3L/4I/4L, KY2-D-02, MAD-5CS, PXH-1bC, PLG-3Z, RFL-5CS, SHD-2Ht, SHG-2E/2F, SPR-4F, WHM-6Rk/7CS, BWP-2B/2E/BWP-3A) and fixes for the Hospital, star map, Hell of a Deal event, mission respawn and some others. But this is a reason for joy – all this is now present in the basic BEX.
+
+– Added 3 new emblems for your mercenary unit.
+
+– All extinct chassis except Kyudo Model 01 can no longer be encountered in battles (except special enemies). But they and their parts can still be obtained if pirates are your friends.
+
+– Updated Xotl tables.
+
+– Corsairs are now only encountered starting from 3035.
+
+– TBD campaign is now limited to a timeline from April 3034 to April 3056.
+
+– Some special enemies were armed with Inferno SRMs in the СAС version. Now they are armed with them in the base version as well. Get a fire extinguisher, ha-ha.
+
+– Updated data for manual input.
+
 # FAQ:
 – I installed this mod and it doesn't work!
-
-The mod has been tested countless times during development and triple checked before release. Everything worked and the campaign is available for the full playthrough, I'm sure of it. If something doesn’t work for you, then, I suppose, one of the three:
-1) You installed this mod incorrectly: unpacked it in the wrong place, didn’t confirm the replacement of files during installation, or didn’t follow the installation order.
-2) Your installation of BattleTech Extended is corrupt, installed incorrectly, or is below 1.9.3.7.
-3) There is something third-party in your mods assembly that conflicts with The Big Deal.
+The mod has been tested countless times during development and triple checked before release. Everything worked and the campaign is available for the full playthrough, I'm sure of it. Still, patches are coming and the content is changing, so if something doesn’t work for you, then, I suppose, one of the three:
+     1) You installed this mod incorrectly: unpacked it in the wrong place, didn’t confirm the replacement of files during installation, or didn’t follow the installation order.
+     2) Your installation of BattleTech Extended is corrupt, installed incorrectly, or is below 2.0.
+     3) There's something third-party in your mods assembly that conflicts with The Big Deal.
 
 In this case, I advise you to delete everything that is in your Mods folder, and perform a completely clean installation of all the necessary mods according to the instructions for them. This should fix the issue.
 
 – My game crashes while launching a mission, what's the problem?
+If an error is indicated in the BT log, the code of which contains the blocks ***NullReferenceException: Object reference not set to an instance of an object*** and ***(UnityEngine.Transform parentTransform)***, then your CAB files are damaged. So far, only one such case has been reported, the problem is solved through the CAB installer in two ways:
+     1) Run it, click "Advanced Mode", check the box "Correct Corrupted Files", start the installation. Damaged files should be fixed automatically.
+     2) Complete reinstallation of all CAB directories after deleting the existing ones.
 
-If an error is indicated in the BT log, the code of which contains the blocks **NullReferenceException: Object reference not set to an instance of an object** and **(UnityEngine.Transform parentTransform)**, then your CAB files are damaged. So far, only one such case has been reported, the problem is solved through the CAB installer in two ways:
-1) Run it, click "Advanced Mode", check the box "Correct Corrupted Files", start the installation. Damaged files should be fixed automatically.
-2) Complete reinstallation of all CAB directories after deleting the existing ones.
+– I can't launch the next flashpoint in %any% campaign, what should I do?
+I've been told about this error many times, but I couldn't reproduce it, and therefore fix it – everything works fine in tests. But there'is a solution, albeit a primitive one: use the contents of the  Emergency files – manual FP start zip, there are instructions there.
 
 – I can't find The Opportunist FP, where is it located?
-
-It's a vanilla FP, but it's been moved. It's currently located in the Awano system, northeast of Terra. If you can't find it, use the search: on the star map screen, press CTRL + F.
+It's a vanilla FP, but it's been moved. It's currently located in the Awano system, northeast of Terra. If you can't find it, use the search: on the star map screen, press CTRL + F. And rem,ember that The Opportunist FP is available from April 3034 to April 3056 only.
 
 – The campaign is too hard, I can't complete it. Can you make it easier?
-
 Campaign difficulty has already been significantly lowered for release. Either you don’t have a powerful enough team, or your tactics are ineffective. In short, get tougher and smarter, if you're trying to kick the whole galaxy's ass with just Wasp, Cicada, Quickdraw and Charger – that's definitely a bad idea.
 
 – The campaign is too easy, I want more difficulty!
-
 I’m very glad that your mercenary unit is so tough. You can always try higher difficulty settings if the current ones aren't enough for you, but there won't be any additional campaign difficulty – not everyone likes crazy hardcore.
 
 – I don't want to play the campaign, but I need the 'Mechs from this mod. Can you post them separately?
-
 It makes no sense – you can just ignore the campaign or refuse to continue at almost any time, in which case The Big Deal will work like an ordinary mechpack.
 
-– Do you know that %anything% doesn't match TT/BT lore?
-
+– Do you know that *%anything%* doesn't match TT/BT lore?
 Tell that to Victoria and her King Crab.
-
 Nothing in the campaign plot directly breaks the lore of BT – it's just a side story about a big deal and a lot of money without any attempt to highlight the already existing lore events in the BattleTech universe. Controversial plot events could well have happened, we just don't know about it.
-
 As for TT, The Big Deal isn’t a tabletop game mod. All loadouts were close to the original ones from MegaMekLab, as far as technically possible. Unique items and chassis may not match the TT, but they cannot be obtained more than once and don't cause significant balance damage. However, if you want 100% TT match, then, I guess, it's worth playing BTA 3062 or RogueTech.
 
-–  Is it possible to fail the campaign?
-
-It’s possible, and there are more than enough ways to do this. The campaign will automatically fail if you fail to complete any episode within 180 days of its spawn (except The Opportunist, its respawn is unlimited), and if you fail the flashpoints, it will not be able to respawn. In addition, you can make the wrong choice directly during the playthrough of flashpoints, but this isn’t difficult to avoid: carefully read the texts of conversations, in most cases the wrong choice is quite obvious. In situations where it’s not completely obvious, you will have the opportunity to change your mind.
-
+– Is it possible to fail the campaign?
+It’s possible, and there are more than enough ways to do this. The campaign will automatically fail if you fail to complete any episode within 180 days of its spawn (except The Opportunist, its respawn is unlimited from April 3034 to April 3056), and if you fail the flashpoints, it will not be able to respawn. In addition, you can make the wrong choice directly during the playthrough of flashpoints, but this isn’t difficult to avoid: carefully read the texts of conversations, in most cases the wrong choice is quite obvious. In situations where it’s not completely obvious, you will have the opportunity to change your mind.
 Are there any choice situations in the campaign that will not affect the further playthrough? Yes, there are, but there are very few of them. As a hint, it doesn't matter how you finish The Opportunist, but you'll have to deal with the rest of these situations on your own.
 
 – Will The Big Deal be adapted to RogueTech, BTA 3062 or BattleTech Revised?
-
 No, as I don't play these mods, but you can always make your own adapted version. If someone makes it, tests it thoroughly and is sure that it works 100% – no problem, I can add such a version to GitHub.
 
 – Can I play The Big Deal on vanilla BattleTech?
-
 No, because TBD requires some mods from the BattleTech Extended pack. It makes no sense to try to adapt – too much work, will be easier to just install BEX.
 
 – Can I play The Big Deal without one or more DLCs?
-
 No way: some DLC content cannot be recreated using mods. So you need all three main DLC for BT anyway.
 
-– Can I play without the BiggerDrops patch?
-
-You can, but I HIGHLY don't recommend it: this patch affects the filling of enemy lances at the end of the campaign, so without it you will definitely run into problems, and I have no idea how disastrous they can be.
-On the other hand, you can always install BiggerDrops and disable additional enemy lances in the Mission Control settings if they don't suit you.
-
-– I didn’t figure out how to start a campaign?
-
+– I didn’t figure out how to start The Big Deal campaign?
 Apparently you didn't read the description. I'll explain again:
-1) If you have started a NEW BattleTech campaign or career, The Big Deal campaign will start after completing The Opportunist flashpoint.
+1) If you have started a NEW BattleTech campaign or career, The Big Deal campaign will start after completing The Opportunist flashpoint, which is available from April 3034 to April 3056.
 2) If The Opportunist has NOT been activated by you yet, i.e. even if it spawned, but you did NOT start it, then everything will work as in the previous paragraph.
 3) If you have ALREADY COMPLETED The Opportunist, the campaign will start with the start of The Letter event at a random time. In this case, I strongly recommend preparing your mercenary unit as much as possible before installation.
 
-– Is The Big Deal compatible with existing BattleTech Extended saves?
+– I didn’t figure out how to start the Spite & Violence campaign?
+From time to time, a flashpoint appears in the Cadiz (DC) system. This is your starting point.
 
+– I didn’t figure out how to start the Old Friend campaign?
+From time to time, a flashpoint appears in the Raman system. This is your starting point.
+
+– Is The Big Deal compatible with existing BattleTech Extended saves?
 Again, you didn't read the description carefully. The modification is fully compatible with existing saves for BattleTech Extended.
 
-– What do I need to play this campaign through?
-
-All the best weapons and equipment you can get your hands on, as well as ace pilots and a fair amount of ‘Mechs. I advise you to prepare at least two assault lances, the same number of heavy BattleMechs, and at least one full medium lance.
+– What will I need to complete these campaigns?
+     A) For the Spite & Violence FPs you'll want at least a couple of medium Mechs, but the better 
+     equipped your unit is, the easier it is. Heavy and assault 'Mechs should make this a walk in the 
+     park.
+     B) For the Old Friend campaign you will need chassis of different classes: both medium and heavy. 
+     Assaults are highly desirable for the end.
+     С) I already said that the Big Deal is a nightmare. For this campaign you'll need **the best of** 
+     **everything, cool heads and brains. And believe me, this isn't a joke.**
 
 – I'm looking for new 'Mechs from the mod, where can I find them?
-
 Here is the complete list:
 
-PLG-3Z, BLR-1GBc, BLR-1Gc, SPR-4F, CRD-1R, WVE-5Nsl, KSC-4I, KSC-4L, THG-11Eb, CRB-27sl, EXT-4C, EXC-B1, EXC-B2. EXC-B2b, EXC-C1, SHG-2H, GLH-1D and KY2-D-02:
+BLR-1GBc, BLR-1Gc, SPR-4F, CRD-1R, WVE-5Nsl, THG-11Eb, CRB-27sl, EXT-4C, EXC-B1, SHG-2H and GLH-1D: Find ComStar or WoB and kick their asses. Probably they will drop these ‘Mechs. Some of them are also used by Snord's Irregulars.
 
-Find ComStar or WoB and kick their asses. Probably they will deploy these ‘Mechs. Some of them are also used by Snord's Irregulars.
+KY2-D-01: Primitive 'Mech, can be found almost everywhere, but it's very rare.
 
-SHG-2E and 2F:
+BattleMaster BLR-1Gd, Phoenix PX-3R and PX-4R, Von Rohrs VON 4RH-5 and VON 4RH-6, Hector HOR-1B and  HOR-1C, Pillager PLG-1N, Rifleman RFL-2N: All these chassis are considered extinct, so you won't encounter them in combat as you did in TBD for BEX 1.9.3.7, but you can buy them or their parts. In short, you'll still hunt them, but instead of the battlefield, your hunt will take place on the Black Markets. Custom opponents, however, are still around, like, Whistler still drives his Rattler.
 
-Wolf's Dragoons are your friends.
+WHM-6Rk: this is an extinct chassis, so everything is written about it above, but if you have a high reputation with House Kurita and completed some Kuritan flashpoints with the correct ending (i.e. finishing the job), then sooner or later Yamaguchi will call you with a business proposal.
 
-SPR-5F:
+Annihilator ANH-1X: Skirmish only.
 
-Davion and Steiner forces, their elite units and ComStar, but only after 01/01/3053 – the 5F model was put into production after this date.
+Corsair COR-5R, COR-5T, COR-6R and COR-7A: 5R, 5T and 6R have been used by pirates in the northern Inner Sphere, as well as the Oberon Confederation and the Valkyrate, since 3035. You can encounter 7A in battles with them starting from 3050.
 
-RFL-2N:
-
-This was a pretty common model, but is now extinct, so it's everywhere, but quite rare.
-
-KY2-D-01:
-
-Primitive 'Mech, can be found in local troops and peripheral states.
-
-PLG-1N:
-
-It's found in about the same places as the Victor models A and A1, but has a lower chance of appearing.
-
-WHM-6Rk:
-
-1) You can try to fight Kuritan elite units any time and maybe you'll find it, but the chances are extremely low until 3047.
-2) 'Mechs refitted from stock 6R into 6Rk can be encountered in battles against any troops using the Draconis Combine tables, but after the beginning of 3047.
-3) If you have a high reputation with House Kurita and completed some Kuritan flashpoints with the correct ending (i.e. finishing the job), then sooner or later Yamaguchi will call you with a business proposal.
-
-BLR-1Gd:
-
-1) You can try to fight Davion elite units any time and maybe you'll find it, but the chances are extremely low until 3043.
-2) 'Mechs refitted from stock 1G into 1Gd can be encountered in battles against any troops using the Federated Suns tables, but after the beginning of 3043.
-
-BattleAxe BKX-7K, BattleAxe BKX-7NC, Hammerhands HMH-3D and Hammerhands HMH-4D:
-
-Technically, these chassis are extinct, but occasionally they can be found in Davion local troops.
-
-Phoenix PX-3R, Phoenix PX-4R, Ymir BWP-2B and Ymir BWP-2E:
-
-Technically, these chassis are extinct, but occasionally they can be found in Steiner local troops.
-
-Ymir BWP-3A:
-
-The very few remaining 3A 'Mechs are used by ComStar and Steiner elite troops.
-
-Von Rohrs VON 4RH-5 and Von Rohrs VON 4RH-6:
-
-Technically, these chassis are extinct, but occasionally they can be found in Kuritan local troops.
-
-Hector HOR-1B and Hector HOR-1C:
-
-Technically, these chassis are extinct, but occasionally they can be found in Marik local troops.
-
-Archer ARC-5CS, Marauder MAR-5CS, Phoenix Hawk PXH-1bC, Rifleman RFL-5CS, Shadow Hawk SHD-2Ht and Warhammer WHM-7CS:
-
-These all are ComStar refits used in the Battle of Tukayyid. They can be stumbled upon in missions with the participation of ComStar or WoB after 01/01/3052 with a small probability.
-
-Annihilator ANH-1X:
-
-Skirmish only.
-
-Corsair COR-5R, COR-5T, COR-6R and COR-7A:
-
-According to Sarna, these 'Mechs first appeared in 3035. However, these are hand-built pirate 'Mechs, so it is possible that some machines could have appeared earlier.
-5R, 5T and 6R have been used by pirates since 3025, becoming somewhat more common from 3035.
-And you can stumble upon 7A in battles against pirates since 3050.
-
-Koschei:
-
-1) Models 3I and 3L are used by the CCAF, as well as by the capellan forces of the local militia.
-2) Models 4I and 4L are used by ComStar. You can also stumble upon them while fighting the elite units of the Capellan Confederation, but this is extremely unlikely.
-
-Both new unique chassis are only obtainable once, and you'll have to find them yourself to avoid spoilers. Whether you get them or not depends on your actions.
+All three new unique chassis are only obtainable once, and you'll have to find them yourself to avoid spoilers. Whether you get them or not depends on your actions.
 
 – I’m looking for new Ronins\Argo medical upgrades\chassis upgrades, where can I find them?
-
 Again, in all cases, this will be a spoiler, but you definitely won’t miss Ronins or ship upgrades. Speaking of ‘Mech upgrades, you will encounter one of them one way or another, while the second upgrade can be obtained through a chain of events, but the launch of this chain depends only on your actions.
 
 – Is it possible to get unique ‘Mechs or new unique equipment more than once?
-
 Not by in-game methods, so if you lose them, you can't replace them. Unless you're a cheater, of course, but that would be too easy, right?
 
 – I can’t find the Rail Gun, where can I find it?
-
 These weapons can be found in Former SLDF planets stores or Black Market. The weapon is rare and expensive, it’s very difficult to find it. You'll have a couple more opportunities to get it and you won't miss them, but think carefully before you take them – maybe Rail Gun right here and now isn't worth it, and it's worth waiting for another chance?...
 
-– How to unlock new emblems for the team?
+– How to unlock new emblems for the unit?
+They're available immediately after installation in the paint settings of your unit.
 
-They are available immediately after installation in the paint settings of your unit.
-
-– Some ‘Mechs look weird! My Pillager looks like a Kodiak, is that normal?
-
-It doesn't look like Kodiak, it just uses the Kodiak model. The problem is that some 'Mechs don't have models in CAB, so they use models from other 'Mechs. If someone makes an appropriate model for this or that BattleMech this will be fixed, of course.
+– Some ‘Mechs look weird! My Galahad looks like a Nova Cat, is that normal?
+It doesn't look like Nova Cat, it just uses the Nova Cat's model. The problem is that some 'Mechs don't have models in CAB, so they use models from other 'Mechs. If someone makes an appropriate model for this or that BattleMech this will be fixed, of course.
 
 – Are there any further plans for the development of mod or new flashpoints?
-
 No, but I won't think ahead. All development of the mod is planned to be limited to the necessary maintenance, since this is a finished story. Although it can always be expanded...
 
 # Bugs:
