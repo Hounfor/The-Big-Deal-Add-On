@@ -90,7 +90,7 @@ Install BattleTech Extended Tactics, then unpack The Big Deal Add-On – BEX zip
 
 – For an original version of BEX with Solaris 7 mod:
 
-Install BattleTech Extended Tactics, then install the Solaris 7 modification **(except the Extended Conversations and BT_Extended_Timeline folders)**, also confirming the file replacement. Then unpack the The Big Deal Add-On – BEX zip and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEX) zip and move the folder from there to your Mods folder, confirming the file replacement.
+Install BattleTech Extended Tactics, then install the Solaris 7 modification **(only Solaris7BEX folder, nothing more!)**, also confirming the file replacement. Then unpack the The Big Deal Add-On – BEX zip and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEX) zip and move the folder from there to your Mods folder, confirming the file replacement.
 
 – For a patch with improved medical equipment:
 
