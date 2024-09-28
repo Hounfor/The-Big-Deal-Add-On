@@ -77,7 +77,7 @@ The Big Deal add-on will definitely conflict with any mods installed with BEX if
 
 – The mod is also incompatible with any mods that change the Mech Bay and the internal construction of the ‘Mechs, i.e. MechEngineer, etc.
 
-To manually configure compatibility with other modifications, you can use the Data For Manual Compatibility Settings archive – all the new data used in the aforementioned files are indicated separately there, but PLEASE NOTE – it’s NOT intended for installation, only for manually entering values from there into your assembly on BEX basis. **ATTEMPTING TO INSTALL THE CONTENT OF THAT ZIP IN THE MODS FOLDER WILL DAMAGE YOUR MODS.*
+To manually configure compatibility with other modifications, you can use the Data For Manual Compatibility Settings archive – all the new data used in the aforementioned files are indicated separately there, but PLEASE NOTE – it’s NOT intended for installation, only for manually entering values from there into your assembly on BEX basis. **ATTEMPTING TO INSTALL THE CONTENT OF THAT ZIP IN THE MODS FOLDER WILL DAMAGE YOUR MODS.**
 
 # Installation:
 **ATTENTION!** The only official download sources are:
