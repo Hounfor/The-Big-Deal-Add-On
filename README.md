@@ -49,9 +49,11 @@ How to start the Spite & Violence campaign:
 
 How to start the Old Friend campaign:
 
-– From time to time, a flashpoint appears in the Raman system. This is your starting point.
+– From time to time, a flashpoint appears in the Raman system. This is your starting point, but first you need to finish the Of Unknown Origin flashpoint.
 
-Current version is 1.6.3, added 09/27/2024. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7, ONLY 2.0 OR HIGHER.**
+Current version is 1.6.3, added 10/04/2024. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7, ONLY 2.0 OR HIGHER.**
+
+**ATTENTION! All three starting flashpoints, i.e. The Opportunist, Spite & Violence and Under the Sun are unlimited in respawn. This means that you do NOT need to start all three campaigns at once, if any of these flashpoints disappear from the map, it will reappear later (except The Opportunist, which completely disappears, but ONLY after April 3056). At the same time, each subsequent FP in the campaigns appears only once. In simple terms, it works the same as the Heavy Metal campaign in vanilla, you just have less time for all the FPs after the first one.**
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
@@ -614,6 +616,14 @@ Version 1.6.3 for BEX Tactics 2.0.0.2
 
 – Mod description updated.
 
+Version 1.6.3b for BEX Tactics 2.0.0.2
+
+– The new Inferno SRMs have been found to be working incorrectly in tank ammo racks, so they're disabled for now, but they're still there in some 'Mechs and should work fine there. Thanks to Demunder for pointing out the problem.
+
+– Minor fixes to custom tanks in campaigns.
+
+– Mod description updated.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 The mod has been tested countless times during development and triple checked before release. Everything worked and the campaign is available for the full playthrough, I'm sure of it. Still, patches are coming and the content is changing, so if something doesn’t work for you, then, I suppose, one of the three:
@@ -671,7 +681,9 @@ Apparently you didn't read the description. I'll explain again:
 From time to time, a flashpoint appears in the Cadiz (DC) system. This is your starting point.
 
 – I didn’t figure out how to start the Old Friend campaign?
-From time to time, a flashpoint appears in the Raman system. This is your starting point.
+From time to time, a flashpoint appears in the Raman system. This is your starting point, but first you need to finish the Of Unknown Origin flashpoint.
+
+Remember that all three starting flashpoints, i.e. The Opportunist, Spite & Violence and Under the Sun are unlimited in respawn. This means that you do NOT need to start all three campaigns at once, if any of these flashpoints disappear from the map, it will reappear later (except The Opportunist, which completely disappears, but ONLY after April 3056). At the same time, each subsequent FP in the campaigns appears only once. In simple terms, it works the same as the Heavy Metal campaign in vanilla, you just have less time for all the FPs after the first one.
 
 – Is The Big Deal compatible with existing BattleTech Extended saves?
 Again, you didn't read the description carefully. The modification is fully compatible with existing saves for BattleTech Extended.
