@@ -51,7 +51,7 @@ How to start the Old Friend campaign:
 
 – From time to time, a flashpoint appears in the Raman system. This is your starting point, but first you need to finish the Of Unknown Origin flashpoint.
 
-Current version is 1.6.3, added 10/04/2024. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7, ONLY 2.0 OR HIGHER.**
+Current version is 1.6.3b, added 10/04/2024. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7, ONLY 2.0 OR HIGHER.**
 
 **ATTENTION! All three starting flashpoints, i.e. The Opportunist, Spite & Violence and Under the Sun are unlimited in respawn. This means that you do NOT need to start all three campaigns at once, if any of these flashpoints disappear from the map, it will reappear later (except The Opportunist, which completely disappears, but ONLY after April 3056). At the same time, each subsequent FP in the campaigns appears only once. In simple terms, it works the same as the Heavy Metal campaign in vanilla, you just have less time for all the FPs after the first one.**
 
