@@ -618,7 +618,7 @@ Version 1.6.3 for BEX Tactics 2.0.0.2
 
 Version 1.6.3b for BEX Tactics 2.0.0.2
 
-– The new Inferno SRMs have been found to be working incorrectly in tank ammo racks, so they're disabled for now, but they're still there in some 'Mechs and should work fine there. Thanks to Demunder for pointing out the problem.
+– The new Inferno SRMs have been found to be working incorrectly in tank ammo racks, so they're disabled for now, but they're still there in some 'Mechs and should work fine there. Thanks to Demuder for pointing out the problem.
 
 – Minor fixes to custom tanks in campaigns.
 
