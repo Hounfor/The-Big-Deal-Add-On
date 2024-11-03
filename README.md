@@ -630,7 +630,7 @@ Version 1.6.3c for BEX Tactics 2.0.0.2
 
 Version 1.6.3d for BEX Tactics 2.0.0.2
 
-– Fixed a bug with the final boss loadout, due to which one of the Mechs didn't spawn.
+– Fixed a bug with the final boss loadout, due to which one of the 'Mechs didn't spawn.
 
 – Fixed a bug in Henry Jackson's bio.
 
