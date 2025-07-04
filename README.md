@@ -11,7 +11,7 @@ DLC.
 3) The Big Deal. The entire add-on was originally built around this campaign. **Its difficulty is a**
 **nightmare. You have been warned.** You'll need the best you can get to complete it.
 
-– In version 1.7, a single FP named 2 Minutes To Midnight was added. In terms of difficulty, it's something like TBD. And one more thing. This is probably the only time I write a disclaimer for TBD. **I in no way approve of such "ways" of solving problems as in this FP**, it's just that in the world of BattleTech anything can happen... Like this time. Everyone makes their own decisions, you know? So I'm not calling anyone to anything, it's just a video game where you make decisions, and nothing more: there is no hidden meaning there. What you imagined after this FP is all your own thoughts, I have nothing to do with it.
+– In version 1.7, a single FP named 2 Minutes To Midnight was added. In terms of difficulty, it's something like TBD. And one more thing. This is probably the only time I write a disclaimer for TBD. **I in no way approve of such "ways" of solving problems as in this FP**, it's just that in the world of BattleTech anything can happen... Like this time. Everyone makes their own decisions, you know? So I'm not calling anyone to anything, it's just a video game where you make decisions, and nothing more: there is no hidden meaning there. What you imagined after this FP is all your own thoughts, I have nothing to do with it and bear no responsibility for it.
      
 – Lots of different notes, descriptions and references.Although the plots don't claim to be literary masterpieces, I think you will enjoy them.
 
