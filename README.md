@@ -1,5 +1,5 @@
 # The Big Deal Add-On
-The Big Deal add-on for BattleTech Extended Tactics (aka BEX) is a pack of flashpoint campaigns similar to the vanilla Heavy Metal DLC, combined with a 'Mech pack. Here's what awaits you:
+The Big Deal add-on for BattleTech Extended Tactics (aka BEXT) is a pack of flashpoint campaigns similar to the vanilla Heavy Metal DLC, combined with a 'Mech pack. Here's what awaits you:
 
 – Three flashpoint campaigns of varying difficulty levels, namely:
 
@@ -10,12 +10,14 @@ difficulty increases, similar to the vanilla DLC Heavy Metal. However, it's more
 DLC.   
 3) The Big Deal. The entire add-on was originally built around this campaign. **Its difficulty is a**
 **nightmare. You have been warned.** You'll need the best you can get to complete it.
+
+– In version 1.7, a single FP named 2 Minutes To Midnight was added. In terms of difficulty, it's something like TBD. And one more thing. This is probably the only time I write a disclaimer for TBD. **I in no way approve of such "ways" of solving problems as in this FP**, it's just that in the world of BattleTech anything can happen... Like this time. Everyone makes their own decisions, you know? So I'm not calling anyone to anything, it's just a video game where you make decisions, and nothing more: there is no hidden meaning there. What you imagined after this FP is all your own thoughts, I have nothing to do with it.
      
 – Lots of different notes, descriptions and references.Although the plots don't claim to be literary masterpieces, I think you will enjoy them.
 
-– 22 new events, 8 of which are random, and it's up to you whether they happen or not.
+– 30 new events, some of them are random, and it's up to you whether they happen or not.
 
-– 29 new BattleMechs, including 3 unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
+– 40 new BattleMechs, including 10 unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
 
 – Several new Ronin Mechwarriors.
 
@@ -27,7 +29,7 @@ DLC.
 
 – Guardian ECM and Beagle Active Probe are now available not only as fixed equipment: you can find them in stores and FP reward crates (including vanilla FPs), however, these are rare equipment and hard to find; the above also applies to AMS + +. Incidentally, NARC + + and TAG + + have also been added to stores.
 
-– 29 new logos for your mercenary unit.
+– 35 new logos for your mercenary unit.
 
 – Several minor extensions.
 
@@ -51,17 +53,21 @@ How to start the Old Friend campaign:
 
 – From time to time, a flashpoint appears in the Raman system. This is your starting point, but first you need to finish the Of Unknown Origin flashpoint.
 
-Current version is 1.6.3e, added 11/07/2024. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7, ONLY 2.0 OR HIGHER. USE The Big Deal Add-On – BEX 1.9.3.7 ZIPS FOR OLD 1.9.3.7.**
+How to start the 2 Minutes To Midnight FP:
 
-**ATTENTION! All three starting flashpoints, i.e. The Opportunist, Spite & Violence and Under the Sun are unlimited in respawn. This means that you do NOT need to start all three campaigns at once, if any of these flashpoints disappear from the map, it will reappear later (except The Opportunist, which completely disappears, but ONLY after April 3056). At the same time, each subsequent FP in the campaigns appears only once. In simple terms, it works the same as the Heavy Metal campaign in vanilla, you just have less time for all the FPs after the first one.**
+– Complete the Hearts and Minds FP by any means. If your MRB rating is 750 or higher, you may receive a message from your Taurian contact, Elena Marisol-Chaplin, while flying in Taurian space. Remember that you only have a 1 chance to complete this FP, so make sure you are prepared.
+
+Current version is 1.6.3e, added 07/05/2024. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7 AND BEXT 2.0.0.0, 2.0.0.1 or 2.0.0.2, ONLY BEXT 2.0.0.3 OR HIGHER. USE The Big Deal Add-On – BEX 1.9.3.7 ZIPS FOR OLD 1.9.3.7.**
+
+**ATTENTION! All three campaign starting flashpoints, i.e. The Opportunist, Spite & Violence and Under the Sun are unlimited in respawn. This means that you do NOT need to start all three campaigns at once, if any of these flashpoints disappear from the map, it will reappear later (except The Opportunist, which completely disappears, but ONLY after April 3056). At the same time, each subsequent FP in the campaigns appears only once. In simple terms, it works the same as the Heavy Metal campaign in vanilla, you just have less time for all the FPs after the first one.**
 
 # Requirements:
 – All three major DLCs for BattleTech: Flashpoint, Heavy Metal and Urban Warfare.
 
-– Installed modification BattleTech Extended Tactics version 2.0 or higher.
+– Installed modification BattleTech Extended Tactics version 2.0.0.3 or higher.
 
 # Compatibility with other mods:
-The Big Deal add-on will definitely conflict with any mods installed with BEX if they do any of the following:
+The Big Deal add-on will definitely conflict with any mods installed with BEXT if they do any of the following:
 
 – Modify the MechSettings.json file at BATTLETECH\Mods\BT_Extended_CE;
 
@@ -79,20 +85,30 @@ The Big Deal add-on will definitely conflict with any mods installed with BEX if
 
 – The mod is also incompatible with any mods that change the Mech Bay and the internal construction of the ‘Mechs, i.e. MechEngineer, etc.
 
-To manually configure compatibility with other modifications, you can use the Data For Manual Compatibility Settings archive – all the new data used in the aforementioned files are indicated separately there, but PLEASE NOTE – it’s NOT intended for installation, only for manually entering values from there into your assembly on BEX basis. **ATTEMPTING TO INSTALL THE CONTENT OF THAT ZIP IN THE MODS FOLDER WILL DAMAGE YOUR MODS.**
-
 # Installation:
 **ATTENTION!** The only official download sources are:
 
+https://github.com/Hounfor/The-Big-Deal-Add-On
+
+https://discourse.modsinexile.com/t/the-big-deal-add-on-for-battletech-extended-3025-3061/
+
 If you downloaded The Big Deal add-on from somewhere else, it’s NOT guaranteed to work normal, nor is it safe to use the contents of the zip.
 
-– For an original BEX version:
+– For an original BEXT version:
 
-Install BattleTech Extended Tactics, then unpack The Big Deal Add-On – BEX zip and move all folders from there to your Mods folder, confirming the replacement of files.
+Install BattleTech Extended Tactics, then unpack The Big Deal Add-On – BEXT 2.0 zip and move all folders from there to your Mods folder, confirming the replacement of files.
 
-– For an original version of BEX with Solaris 7 mod:
+– For an original version of BEXT with Solaris 7 mod:
 
-Install BattleTech Extended Tactics, then install the Solaris 7 modification **(only Solaris7BEX folder, nothing more!)**, also confirming the file replacement. Then unpack the The Big Deal Add-On – BEX zip and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEX) zip and move the folder from there to your Mods folder, confirming the file replacement.
+Install BattleTech Extended Tactics, then install the Solaris 7 modification **(only Solaris7BEX folder, nothing more!)**, also confirming the file replacement. Then unpack the The Big Deal Add-On – BEXT 2.0 zip and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEXT 2.0) zip and move the folder from there to your Mods folder, confirming the file replacement.
+
+– For BEXT with CAC-C:
+
+Install BattleTech Extended Tactics, then install CAC-C following its instructions, then unpack The Big Deal Add-On – BEXT 2.0 + CAC zip and move all folders from there to your Mods folder, confirming the replacement of files.
+
+– For BEXT with CAC-C and Solaris 7 mod:
+
+Install BattleTech Extended Tactics, then install CAC-C following its instructions, then install the Solaris 7 modification **(only Solaris7BEX folder, nothing more!)**, also confirming the file replacement. Then unpack the The Big Deal Add-On – BEXT 2.0 + CAC zip and move all folders from there to your Mods folder, confirming the replacement of files. Finally, extract The Big Deal – Solaris Patch (BEXT 2.0 + CAC) zip and move the folder from there to your Mods folder, confirming the file replacement.
 
 – For a patch with improved medical equipment:
 
@@ -103,6 +119,11 @@ Once again, the order of installation of all options in a shorter and more acces
 BEX + TBD: BEX -> TBD -> Medical upgrades patch (optional)
 
 BEX + Solaris + TBD: BEX -> Solaris 7 -> TBD -> Solaris patch -> Medical upgrades patch (optional)
+
+BEX + CAC + TBD: BEX -> CAC -> TBD -> Medical upgrades patch (optional)
+
+BEX + CAC + Solaris + TBD: BEX -> CAC -> Solaris 7 -> TBD -> Solaris patch -> Medical upgrades patch (optional)
+
 
 **ATTENTION!** Random spawns for flashpoints are disabled in TBD. If for some reason you reinstall Mission Control mod, then make sure that the contents of the corresponding folder from TBD zip are still in place. This is important, because otherwise you have every chance of being unable to complete the campaign – you'll simply be torn apart.
 
@@ -642,6 +663,58 @@ Version 1.6.3e for BEX Tactics 2.0.0.2
 
 – Fixed a critical error in Excalibur B1. Thanks to Hrothgar Havenlight for the report and Kierk for the help.
 
+Version 1.7 for BEX Tactics 2.0.0.3
+
+– Added a new single flashpoint named 2 Minutes To Midnight.
+
+– Added an easy mode that allows you to use a second lance in all missions of all TBD campaigns, but remember that the second lance will have the same tonnage restrictions as the first. To enable this mode, go to Mods\fps_TheBigDealBEXCE, open mod.json, switch the AdditionalPlayerMechs setting to true and save the changes. Don't forget to thank Kierk for this – he did hell of a job coding this in a very short time, without him none of this would have happened.
+
+– Added 4 new canon Helm-Tech chassis: AC7-K-DC, ZEU-9S-DC, WHM-7M-DC and CP-11-A-DC.
+
+– Added some more content, but you'd better see it for yourself to avoid spoilers.
+
+– Added 8 new events, some of which are random.
+
+– Added 6 new emblems for your unit.
+
+– Added an extension for the updated version of Opportunity Missions, so if you have OM installed, then sometimes in these missions you can stumble upon canon SLDF BattleMechs from TBD (and CAC if you have it).
+
+– Added CAC-C-compatible version for BEXT 2.0.0.3
+
+– Disabled the limit on the target heat generated by flamers and Inferno SRMs, so that your SRM-arsonists can once again feel like kings of the battlefield. But remember that this is TBD – you yourself can run into a salvo of Infernos.
+
+– Corsairs finally have a common affinity for all chassis versions. Unfortunately, the roles had to be assigned standard ones, but they work.
+
+– All chassis have been given the roles added in 2.0.0.3.
+
+– LosTech turrets no longer have increased durability.
+
+– Supposedly fixed repeating events that should be one-time only (Thanks to SirMrMan and JoseyWales for reporting the issue).
+
+– Inferno ammo has been returned in the vanilla version to all enemies that should have it (including vehicles). Some enemies in old FPs also received tracer ammo for autocannons.
+
+– Angry Urbie has been reworked to comply with TT design rules – in particular, the stupid limitation on the number of jump jets depending on the engine rating. To do this, I had to install a heavier engine, replace the MPLs with MLs and reduce the number of jump jets, but in return you'll get a mighty high-speed trashcan. In the Fistful of Diamonds FP, MPLs are no longer given as a reward.
+
+– RF2-A's inflated max speed has been fixed.
+
+– Fixed IndustrialMech in MMRNR in the first mission, now it works fine.
+
+– Lots of text edits – mostly typos, but some meaningful ones too.
+
+– Renamed 2 units in old campaigns to avoid repetitions.
+
+– Fixed Genie Arm standing and doing nothing in the final mission of TBD.
+
+– Spector works fine again and is ready to rock.
+
+– Replaced voiceover for pilot Hounfor (yep, that's me).
+
+– Increased efficiency of new medical equipment in the optional patch (just to be enough for pilots without lvl 10 Guts skill).
+
+– Removed zip with data for manual input (there are only 4 of us modders in BEXT, no one uses it).
+
+– Fixed buggy CrossCut in the Urbie's Got A Gun FP – disabled Hard to Pilot quirk. Disabled temporarily – this is an error of BEXT itself, when Haree fixes it – I'll turn it back on.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 The mod has been tested countless times during development and triple checked before release. Everything worked and the campaign is available for the full playthrough, I'm sure of it. Still, patches are coming and the content is changing, so if something doesn’t work for you, then, I suppose, one of the three:
@@ -663,7 +736,7 @@ I've been told about this error many times, but I couldn't reproduce it, and the
 It's a vanilla FP, but it's been moved. It's currently located in the Awano system, northeast of Terra. If you can't find it, use the search: on the star map screen, press CTRL + F. And rem,ember that The Opportunist FP is available from April 3034 to April 3056 only.
 
 – The campaign is too hard, I can't complete it. Can you make it easier?
-Campaign difficulty has already been significantly lowered for release. Either you don’t have a powerful enough team, or your tactics are ineffective. In short, get tougher and smarter, if you're trying to kick the whole galaxy's ass with just Wasp, Cicada, Quickdraw and Charger – that's definitely a bad idea.
+Campaign difficulty has already been significantly lowered for release. Either you don’t have a powerful enough team, or your tactics are ineffective. In short, get tougher and smarter, if you're trying to kick the whole galaxy's ass with just Wasp, Cicada, Quickdraw and Charger – that's definitely a bad idea. If that doesn't help, Kierk added an easy mode for this in patch 1.7: go to Mods\fps_TheBigDealBEXCE, open mod.json, switch the **AdditionalPlayerMechs** setting to true and save the changes. This will allow you to use 8 BattleMechs instead of 4 if you have a second Leopard, but remember that the maximum tonnage limit for each unit is the same for both lances.
 
 – The campaign is too easy, I want more difficulty!
 I’m very glad that your mercenary unit is so tough. You can always try higher difficulty settings if the current ones aren't enough for you, but there won't be any additional campaign difficulty – not everyone likes crazy hardcore.
@@ -703,6 +776,9 @@ From time to time, a flashpoint appears in the Raman system. This is your starti
 
 Remember that all three starting flashpoints, i.e. The Opportunist, Spite & Violence and Under the Sun are unlimited in respawn. This means that you do NOT need to start all three campaigns at once, if any of these flashpoints disappear from the map, it will reappear later (except The Opportunist, which completely disappears, but ONLY after April 3056). At the same time, each subsequent FP in the campaigns appears only once. In simple terms, it works the same as the Heavy Metal campaign in vanilla, you just have less time for all the FPs after the first one.
 
+– I didn’t figure out how to start the 2 Minutes To Midnight FP?
+Complete the Hearts and Minds FP by any means necessary. If your MRB rating is 750 or higher, you may receive a message from your Taurian contact, Elena Marisol-Chaplin, while flying in Taurian space. Remember that you only have a 1 chance to complete this FP, so make sure you are prepared.
+
 – Is The Big Deal compatible with existing BattleTech Extended saves?
 Again, you didn't read the description carefully. The modification is fully compatible with existing saves for BattleTech Extended.
 
@@ -726,9 +802,19 @@ BattleMaster BLR-1Gd, Phoenix PX-3R and PX-4R, Von Rohrs VON 4RH-5 and VON 4RH-6
 
 WHM-6Rk: this is an extinct chassis, so everything is written about it above, but if you have a high reputation with House Kurita and completed some Kuritan flashpoints with the correct ending (i.e. finishing the job), then sooner or later Yamaguchi will call you with a business proposal.
 
+WHM-7M-DC: rare Helm-Tech model, starting in 3052, can be encountered in battles against the Marik forces (elite mostly).
+
+AS7-K-DC: rare Helm-Tech model, starting in 3050, can be encountered in battles against the Kuritan forces (elite mostly).
+
+ZEU-9S-DC: rare Helm-Tech model, starting in 3049, can be encountered in battles against the Steiner forces (elite mostly).
+
+CP-11-A-DC: rare Helm-Tech model, starting in 3045, can be encountered in battles against the Liao forces (elite mostly).
+
 Annihilator ANH-1X: Skirmish only.
 
 Corsair COR-5R, COR-5T, COR-6R and COR-7A: 5R, 5T and 6R have been used by pirates in the northern Inner Sphere, as well as the Oberon Confederation and the Valkyrate, since 3035. You can encounter 7A in battles with them starting from 3050.
+
+Also keep in mind that if you have the updated version of the Opportunity Missions mod for BEXT 2.0, then sometimes in the missions of this mod you can stumble upon 'Mechs from the lists above, if they were in service with the SLDF.
 
 All three new unique chassis are only obtainable once, and you'll have to find them yourself to avoid spoilers. Whether you get them or not depends on your actions.
 
@@ -756,9 +842,10 @@ Not noticed, but nobody’s perfect, so various minor flaws, despite repeated te
 2) Due to the lack of own models, some ‘Mechs don’t have their own affinities, so don’t be surprised, say, that the pilot of your Galahad knows how to drive a Nova Cat 'Mech. Again, this will be fixed if suitable models appear in the CAB.
 3) Due to fewer internal slots than in the TT, some 'Mechs have a different heatsink layout relative to the TT. In particular, some heatsinks had to be built into the engine. This means that the cooling system is working fine, you just can't dismantle them to get more free tonnage, but at the same time, you can't lose these heat sinks in combat – unless, of course, your machine's CT is destroyed.
 4) Placement of Endo-, FF- and Endo + FF slots doesn’t match completely with TT loadouts. This is due to the smaller number of internal slots in BT MechLab, and also because BEX reduces the volume of this equipment by 1 slot. Not a problem, but you should be aware of it.
+5) If your unit goes bankrupt and your screen looks weird, that's OK. There's nothing I can do about it.
 
 # Permissions:
-All original files from BT Extended CE, BT Extended Timeline, FullXotlTables, MechAffinity, Mission Control, VXI FlashpointShift, IRTweaks and BTHospitalFix belong to their authors. If you plan to use the files in your own mods, then please contact them. The same applies to the fixed actuators of the new ‘Mechs.
+All original files from BT Extended CE, BT Extended Timeline, FullXotlTables, MechAffinity, Mission Control, VXI FlashpointShift and IRTweaks belong to their authors. If you plan to use the files in your own mods, then please contact them. The same applies to the fixed actuators of the new ‘Mechs.
 
 If you would like to use The Big Deal in your mod pack for public release, please contact me:
 
@@ -775,15 +862,15 @@ lordruthermore – Rail Gun stats calculations, help with advices on BT lore and
 
 RJPhoenix – technical assistance with customizing the design of some 'Mechs and provided content from VXI_RealPirates.
 
-mcb – tech help with code, BTHospitalFix mod created specifically for TBD and starmap fixes.
+mcb – a lot of tech help with code.
 
-Kierk – various technical assistance.
+Kierk – various technical assistance, code for the easy mode, Infernos override and fix for autosaves in the CAC version.
 
 MRB – improving and simplifying the code for factions and ammo.
 
 CWolf – Mission Control extended lances fixes for TBD, also, with his permission, the Extended Conversations mod was added.
 
-Holda-volk – holoscreen images refinement, as well as portraits for three key characters. You can see more of the artist's works here: https://www.deviantart.com/holda-volk
+Holda-volk – holoscreen images refinement, as well as portraits for many key characters. You can see more of the artist's works here: https://www.deviantart.com/holda-volk
 
 Anna Shekhovtsova – face and appearance of one of the key characters of the campaign, albeit episodic.
 
@@ -795,7 +882,7 @@ Winterless – text edits for the WHM-6Rk and related event.
 
 Taliesin – detection of one of the critical bugs in pre-release builds.
 
-Morgen – translation of the second episode.
+Morgen – translation of the second episode of TBD.
 
 Berghild – proofreading the second and third episodes, as well as participating in the testing of the second.
 
@@ -811,6 +898,6 @@ Enabling – contract respawn fix.
 
 And many other people from the BattleTech Extended discord server who helped with countless little questions and ideas. You're all cool and wonderful, you know?
 
-I express my special gratitude to Waladil for a truly titanic work on proofreading and correcting 67 pages of text used in TBD campaign and to Perry Chalmers for proofreading 33 pages of text used in S&V campaign and the whole text for the Carnor Sal's campaign.
+I express my special gratitude to Waladil for a truly titanic work on proofreading and correcting 67 pages of text used in TBD campaign and to Perry Chalmers for proofreading tons of text used in S&V campaign, the whole text for the Carnor Sal's campaign and 2 Minuites To Midnight FP along with its events.
 
 I would also like to thank Haree and everyone who had a hand in the creation of BattleTech Extended 3025-3061 for a great mod, the Sarna.net team, whose descriptions were used in the files of the new BattleMechs, and the MegaMek team, since MegaMekLab data was used to create new ‘Mechs.
