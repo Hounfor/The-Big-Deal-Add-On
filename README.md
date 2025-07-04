@@ -369,13 +369,13 @@ Version 1.4.6A
 
 There was a critical error in the previous version, I apologize. Version 1.4.6A is already available, reinstall TBD in the usual way.
 
-**ATTENTION! Before installing version 1.4.6A, go to the Mods\FullXotlTables\XotlTables folder and delete two files:
+**ATTENTION! Before installing version 1.4.6A, go to the Mods\FullXotlTables\XotlTables folder and delete two files:**
 
 – Mech Weighting Extended - Steiner.csv
 
 – Mech_Weighting_Extended_-_Steiner.csv
 
-If you don’t have the Mech_Weighting_Extended_-_Steiner.csv file, it’s all right, just delete the first one.**
+**If you don’t have the Mech_Weighting_Extended_-_Steiner.csv file, it’s all right, just delete the first one.**
 
 Version 1.4.6B
 
