@@ -665,6 +665,8 @@ Version 1.6.3e for BEX Tactics 2.0.0.2
 
 Version 1.7 for BEX Tactics 2.0.0.3
 
+<b>ATTENTION! BEFORE INSTALLING TBD 1.7, PUT Spector SPR-4F or Angry Urbie INTO STORAGE, IF YOU HAVE THEM!</b>
+
 – Added a new single flashpoint named 2 Minutes To Midnight.
 
 – Added an easy mode that allows you to use a second lance in all missions of all TBD campaigns, but remember that the second lance will have the same tonnage restrictions as the first. To enable this mode, go to Mods\fps_TheBigDealBEXCE, open mod.json, switch the AdditionalPlayerMechs setting to true and save the changes. Don't forget to thank Kierk for this – he did hell of a job coding this in a very short time, without him none of this would have happened.
