@@ -57,7 +57,7 @@ How to start the 2 Minutes To Midnight FP:
 
 – Complete the Hearts and Minds FP by any means. If your MRB rating is 750 or higher, you may receive a message from your Taurian contact, Elena Marisol-Chaplin, while flying in Taurian space. Remember that you only have a 1 chance to complete this FP, so make sure you are prepared.
 
-Current version is 1.6.3e, added 07/05/2024. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7 AND BEXT 2.0.0.0, 2.0.0.1 or 2.0.0.2, ONLY BEXT 2.0.0.3 OR HIGHER. USE The Big Deal Add-On – BEX 1.9.3.7 ZIPS FOR OLD 1.9.3.7.**
+Current version is 1.7.1, added 07/05/2025. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7 AND BEXT 2.0.0.0, 2.0.0.1 or 2.0.0.2, ONLY BEXT 2.0.0.3 OR HIGHER. USE The Big Deal Add-On – BEX 1.9.3.7 ZIPS FOR OLD 1.9.3.7.**
 
 **ATTENTION! All three campaign starting flashpoints, i.e. The Opportunist, Spite & Violence and Under the Sun are unlimited in respawn. This means that you do NOT need to start all three campaigns at once, if any of these flashpoints disappear from the map, it will reappear later (except The Opportunist, which completely disappears, but ONLY after April 3056). At the same time, each subsequent FP in the campaigns appears only once. In simple terms, it works the same as the Heavy Metal campaign in vanilla, you just have less time for all the FPs after the first one.**
 
@@ -88,7 +88,7 @@ The Big Deal add-on will definitely conflict with any mods installed with BEXT i
 # Installation:
 **ATTENTION!** The only official download sources are:
 
-https://github.com/Hounfor/The-Big-Deal-Add-On
+https://github.com/Hounfor/The-Big-Deal-Add-On **(Releases section to be precise)**
 
 https://discourse.modsinexile.com/t/the-big-deal-add-on-for-battletech-extended-3025-3061/
 
@@ -671,7 +671,7 @@ Version 1.7 for BEX Tactics 2.0.0.3
 
 – Added an easy mode that allows you to use a second lance in all missions of all TBD campaigns, but remember that the second lance will have the same tonnage restrictions as the first. To enable this mode, go to Mods\fps_TheBigDealBEXCE, open mod.json, switch the AdditionalPlayerMechs setting to true and save the changes. Don't forget to thank Kierk for this – he did hell of a job coding this in a very short time, without him none of this would have happened.
 
-– Added 4 new canon Helm-Tech chassis: AC7-K-DC, ZEU-9S-DC, WHM-7M-DC and CP-11-A-DC.
+– Added 4 new canon Helm-Tech chassis: AS7-K-DC, ZEU-9S-DC, WHM-7M-DC and CP-11-A-DC.
 
 – Added some more content, but you'd better see it for yourself to avoid spoilers.
 
@@ -716,6 +716,15 @@ Version 1.7 for BEX Tactics 2.0.0.3
 – Removed zip with data for manual input (there are only 4 of us modders in BEXT, no one uses it).
 
 – Fixed buggy CrossCut in the Urbie's Got A Gun FP – disabled Hard to Pilot quirk. Disabled temporarily – this is an error of BEXT itself, when Haree fixes it – I'll turn it back on.
+
+Version 1.7.1 for BEX Tactics 2.0.0.3
+
+– Added 4 more canon DC chassis that I forgot about: ON1-M-DC, DRG-5K-DC, BLR-3M-DC and MAD-5D-DC.
+
+– Restored standard heat sinks in one of the events as a reward.
+
+– Unfortunately, the mod no longer fits on the main page of its GitHub repository, so version 1.7.1 has been uploaded to the releases section. For MiE, everything remains unchanged.
+
 
 # FAQ:
 – I installed this mod and it doesn't work!
@@ -804,9 +813,11 @@ BattleMaster BLR-1Gd, Phoenix PX-3R and PX-4R, Von Rohrs VON 4RH-5 and VON 4RH-6
 
 WHM-6Rk: this is an extinct chassis, so everything is written about it above, but if you have a high reputation with House Kurita and completed some Kuritan flashpoints with the correct ending (i.e. finishing the job), then sooner or later Yamaguchi will call you with a business proposal.
 
-WHM-7M-DC: rare Helm-Tech model, starting in 3052, can be encountered in battles against the Marik forces (elite mostly).
+WHM-7M-DC, ON1-M-DC and BLR-3M-DC: rare Helm-Tech models, starting in 3050s (3052 for WHM-7M-DC and 3053 for ON1-M-DC/BLR-3M-DC), you can encounter them in battles against the Marik forces (elite mostly).
 
-AS7-K-DC: rare Helm-Tech model, starting in 3050, can be encountered in battles against the Kuritan forces (elite mostly).
+AS7-K-DC and DRG-5K-DC: rare Helm-Tech models, starting in 3052, you can encounter them in battles against the Kuritan forces (elite mostly).
+
+MAD-5D-DC: rare Helm-Tech model, starting in 3055, can be encountered in battles against the Steiner forces (elite mostly).
 
 ZEU-9S-DC: rare Helm-Tech model, starting in 3049, can be encountered in battles against the Steiner forces (elite mostly).
 
