@@ -17,7 +17,7 @@ DLC.
 
 – 30 new events, some of them are random, and it's up to you whether they happen or not.
 
-– 40 new BattleMechs, including 10 unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
+– 44 new BattleMechs, including 10 unique chassis, which can only be obtained once. However, you may not get it, it all depends on your choice...
 
 – Several new Ronin Mechwarriors.
 
