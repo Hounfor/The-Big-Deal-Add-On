@@ -663,7 +663,7 @@ Version 1.6.3e for BEX Tactics 2.0.0.2
 
 – Fixed a critical error in Excalibur B1. Thanks to Hrothgar Havenlight for the report and Kierk for the help.
 
-Version 1.7 for BEX Tactics 2.0.0.3
+Version 1.7 for BEX Tactics 2.0.0.4
 
 <b>ATTENTION! BEFORE INSTALLING TBD 1.7, PUT Spector SPR-4F or Angry Urbie INTO STORAGE, IF YOU HAVE THEM!</b>
 
@@ -717,13 +717,17 @@ Version 1.7 for BEX Tactics 2.0.0.3
 
 – Fixed buggy CrossCut in the Urbie's Got A Gun FP – disabled Hard to Pilot quirk. Disabled temporarily – this is an error of BEXT itself, when Haree fixes it – I'll turn it back on.
 
-Version 1.7.1 for BEX Tactics 2.0.0.3
+Version 1.7.1 for BEX Tactics 2.0.0.4
 
 – Added 4 more canon DC chassis that I forgot about: ON1-M-DC, DRG-5K-DC, BLR-3M-DC and MAD-5D-DC.
 
 – Restored standard heat sinks in one of the events as a reward.
 
 – Unfortunately, the mod no longer fits on the main page of its GitHub repository, so version 1.7.1 has been uploaded to the releases section. For MiE, everything remains unchanged.
+
+Version 1.7.1b for BEX Tactics 2.0.0.4
+
+– Fixes in IDs of some ChassisDefs and MechDefs, should fix a critical error in WW3. For some reason it doesn't work for everyone, further patches on this part are possible. Thanks to JoseyWales for reporting the issue.
 
 
 # FAQ:
