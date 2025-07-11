@@ -29,7 +29,7 @@ DLC.
 
 – Guardian ECM and Beagle Active Probe are now available not only as fixed equipment: you can find them in stores and FP reward crates (including vanilla FPs), however, these are rare equipment and hard to find; the above also applies to AMS + +. Incidentally, NARC + + and TAG + + have also been added to stores.
 
-– 35 new logos for your mercenary unit.
+– 36 new logos for your mercenary unit.
 
 – Several minor extensions.
 
