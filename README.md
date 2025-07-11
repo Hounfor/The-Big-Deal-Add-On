@@ -57,7 +57,7 @@ How to start the 2 Minutes To Midnight FP:
 
 – Complete the Hearts and Minds FP by any means. If your MRB rating is 750 or higher, you may receive a message from your Taurian contact, Elena Marisol-Chaplin, while flying in Taurian space. Remember that you only have a 1 chance to complete this FP, so make sure you are prepared.
 
-Current version is 1.7.1c, added 07/09/2025. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7 AND BEXT 2.0.0.0, 2.0.0.1 or 2.0.0.2, ONLY BEXT 2.0.0.3 OR HIGHER. USE The Big Deal Add-On – BEX 1.9.3.7 ZIPS FOR OLD 1.9.3.7.**
+Current version is 1.7.1b, added 07/11/2025. **IT DOESN'T WORK WITH BEX VERSION 1.9.3.7 AND BEXT 2.0.0.0, 2.0.0.1 or 2.0.0.2, ONLY BEXT 2.0.0.3 OR HIGHER. USE The Big Deal Add-On – BEX 1.9.3.7 ZIPS FOR OLD 1.9.3.7.**
 
 **ATTENTION! All three campaign starting flashpoints, i.e. The Opportunist, Spite & Violence and Under the Sun are unlimited in respawn. This means that you do NOT need to start all three campaigns at once, if any of these flashpoints disappear from the map, it will reappear later (except The Opportunist, which completely disappears, but ONLY after April 3056). At the same time, each subsequent FP in the campaigns appears only once. In simple terms, it works the same as the Heavy Metal campaign in vanilla, you just have less time for all the FPs after the first one.**
 
@@ -733,6 +733,11 @@ Version 1.7.1c for BEX Tactics 2.0.0.4
 
 – A bunch of fixes from Kierk (thanks to him for that) for missing commas and incorrect IDs. Supposedly should help if you can't continue some FP due to the inability to leave the conversation screen.
 
+Version 1.7.1d for BEX Tactics 2.0.0.4
+
+– Rail Gun fixes, thanks to Kierk. The ratio of short, medium and long firing ranges has been revised, now it is 270, 570 and 840 meters. The minimum range has been reduced to 180 meters, and the weapon description is now displayed correctly in both versions.
+
+– Added 1 new unit emblem.
 
 # FAQ:
 – I installed this mod and it doesn't work!
