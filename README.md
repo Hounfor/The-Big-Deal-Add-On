@@ -739,6 +739,10 @@ Version 1.7.1d for BEX Tactics 2.0.0.4
 
 – Added 1 new unit emblem.
 
+Version 1.7.2 for BEX Tactics 2.0.0.4
+
+– The pilot added in version 1.7 has had his Unstable tag replaced with a new unique tag with its own combination of effects specifically for him. Thanks to Graywolfe and TLDrake for the idea.
+
 # FAQ:
 – I installed this mod and it doesn't work!
 The mod has been tested countless times during development and triple checked before release. Everything worked and the campaign is available for the full playthrough, I'm sure of it. Still, patches are coming and the content is changing, so if something doesn’t work for you, then, I suppose, one of the three:
