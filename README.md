@@ -741,7 +741,7 @@ Version 1.7.1d for BEX Tactics 2.0.0.4
 
 Version 1.7.2 for BEX Tactics 2.0.0.4
 
-– The pilot added in version 1.7 has had his Unstable tag replaced with a new unique tag with its own combination of effects specifically for him. Thanks to Graywolfe and TLDrake for the idea.
+– The pilot added in version 1.7 has had his Unstable tag replaced with a new unique tag with its own combination of effects specifically for him. Thanks to Graywolfe and TLDrake for the idea. Unfortunately, if you have already hired this pilot, then there's no way to update the tag automatically, but you can do this using the save editor.
 
 # FAQ:
 – I installed this mod and it doesn't work!
